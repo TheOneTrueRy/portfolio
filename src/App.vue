@@ -1,12 +1,10 @@
 <template>
-  <header>
-    <Navbar />
-  </header>
   <main>
     <router-view />
   </main>
-   <footer class="bg-dark text-light">
-    Made with 💖 by CodeWorks
+  <footer class="bg-dark text-light text-center">
+    <span class="fs-5">Made with Vue 3 and SCSS.</span>
+    <span class="fs-5"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman</span>
   </footer>
 </template>
 

@@ -1,16 +1,20 @@
 <template>
-  <div class="home flex-grow-1 d-flex flex-column align-items-center justify-content-center">
-    <div class="home-card p-5 bg-white rounded elevation-3">
-      <img
-        src="https://bcw.blob.core.windows.net/public/img/8600856373152463"
-        alt="CodeWorks Logo"
-        class="rounded-circle"
-      >
-      <h1 class="my-5 bg-dark text-white p-3 rounded text-center">
-        Vue 3 Starter
-      </h1>
+<div class="container-fluid">
+  <div class="row text-center">
+    <div class="col-12 col-md-5">
+      <span class="fs-1 fancy">Ryan Wittman</span>
+    </div>
+    <div class="col-4 col-md-2">
+      <a href="https://github.com/TheOneTrueRy" target="_blank"><span class="fs-5 underline">GitHub <i class="mdi mdi-github"></i></span></a>
+    </div>
+    <div class="col-4 col-md-2">
+      <a href="https://www.linkedin.com/in/theonetruery/" target="_blank"><span class="fs-5 underline">LinkedIn <i class="mdi mdi-linkedin"></i></span></a>
+    </div>
+    <div class="col-4 col-md-2">
+      <a href="https://codeworks.prentus.co/p/ryan-wittman" target="_blank"><span class="fs-5 underline">Prentus</span></a>
     </div>
   </div>
+</div>
 </template>
 
 <script>
@@ -22,23 +26,8 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.home {
-  display: grid;
-  height: 80vh;
-  place-content: center;
-  text-align: center;
-  user-select: none;
-
-  .home-card {
-    width: 50vw;
-
-    >img {
-      height: 200px;
-      max-width: 200px;
-      width: 100%;
-      object-fit: contain;
-      object-position: center;
-    }
+  .fancy{
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 1px 1px 0 black;
   }
-}
 </style>
