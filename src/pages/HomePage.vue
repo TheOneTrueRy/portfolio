@@ -1,9 +1,9 @@
 <template>
 <div class="container-fluid">
-  <div class="row align-items-center bg-dark elevation-1">
+  <div class="row align-items-center bg-dark elevation-1 py-2">
     <div class="col-12 col-md-5">
       <div class="fancy">
-        <span class="fs-1">Ryan Wittman</span>
+        <span class="big">Ryan Wittman</span>
       </div>
     </div>
     <div class="col-4 col-md-1 offset-md-4 text-center">
@@ -28,8 +28,13 @@
       </div>
     </div>
   </div>
-  <div class="row upper-bio-bg bg-gradient">
+  <div class="row upper-bio-bg elevation-4">
+    <div class="col-12 col-md-8 d-flex">
 
+    </div>
+    <div class="col-4 d-none d-md-flex">
+
+    </div>
   </div>
   <div class="row lower-bio-bg">
 
@@ -62,6 +67,11 @@ export default {
       stagger: 0.2,
       ease: "elastic"
     })
+    gsap.from(".upper-bio-bg", {
+      delay: 0.65,
+      duration: 2,
+      opacity: 0
+    })
     })
     return {
     }
@@ -71,9 +81,21 @@ export default {
 
 <style scoped lang="scss">
   .fancy{
+    text-align: center;
     font-family: 'Patua One', cursive;
     text-shadow: 1px 1px 0 black;
     letter-spacing: 1px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .fancy{
+      text-align: start;
+    }
+    
+  }
+
+  .big{
+    font-size: 2.5em;
   }
 
   .underline{
@@ -93,7 +115,8 @@ export default {
   }
 
   .upper-bio-bg{
-    height: 40vh;
-    background-color: rgb(183, 28, 59);
+    height: 50vh;
+    background: rgb(48,44,44);
+    background: linear-gradient(90deg, rgba(48,44,44,1) 0%, rgba(255,255,255,1) 100%);
   }
 </style>
