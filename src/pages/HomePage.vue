@@ -6,15 +6,15 @@
         <span class="big">Ryan Wittman</span>
       </div>
     </div> -->
-    <div class="col-6 col-md-3 text-center">
-      <div class="social">
+    <div class="col-6 col-md-3 col-lg-2 ps-4">
+      <div class="social d-flex">
         <div class="hover">
           <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">GitHub <i class="mdi mdi-github"></i></span></a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-md-3 text-center">
-      <div class="social">
+    <div class="col-6 col-md-3 col-lg-2">
+      <div class="social d-flex">
         <div class="hover">
         <a href="https://www.linkedin.com/in/theonetruery/" target="_blank" title="Visit my LinkedIn profile."><span class="fs-5 underline text-light">LinkedIn <i class="mdi mdi-linkedin"></i></span></a>
         </div>
@@ -27,8 +27,8 @@
         </div>
       </div>
     </div> -->
-    <div class="col-12 col-md-4 text-center">
-      <div class="social">
+    <div class="col-12 col-md-4 col-lg-3">
+      <div class="social d-flex">
         <div class="hover">
           <a href="mailto:OfficiallyRy@outlook.com"><span class="fs-5 underline text-light">OfficiallyRy@outlook.com <i class="mdi mdi-email"></i></span></a>
         </div>
@@ -36,7 +36,7 @@
     </div>
   </div>
   <div class="row upper-bio-bg elevation-4">
-    <div class="col-12 col-md-7 d-flex align-items-center justify-content-center">
+    <div class="col-12 col-md-7 d-flex align-items-center justify-content-center bingbong">
       <div class="p-4 rounded d-flex flex-column">
         <span class="fancy">Ryan Wittman</span>
         <span class="subtitle">Designer & Developer</span>
@@ -46,7 +46,31 @@
       <img src="Actual-Ry.png" alt="Ryan Wittman Headshot" class="headshot">
     </div>
   </div>
-  <div class="row lower-bio-bg">
+  <div class="row d-none d-md-flex">
+    <div class="col-12">
+      <div class="row right-to-left">
+        <div class="col-4 g-0 elevation-2">
+          <img src="https://gaymingmag.com/wp-content/uploads/2020/11/kiryukazama.jpg" alt="" class="side-image">
+        </div>
+        <div class="col-8 px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2">
+          <span class="fs-3 pt-1">Bing</span>
+          <span class="pt-4 px-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem rerum veniam numquam eum? Nobis quam vero modi! Quis accusantium in impedit, ducimus dignissimos repudiandae sapiente et alias aliquid. Deleniti, nemo.</span>
+        </div>
+      </div>
+    </div>
+    <div class="col-12">
+      <div class="row left-to-right">
+        <div class="col-8 px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2">
+          <span class="fs-3 pt-1">Bong</span>
+          <span class="pt-4 px-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem rerum veniam numquam eum? Nobis quam vero modi! Quis accusantium in impedit, ducimus dignissimos repudiandae sapiente et alias aliquid. Deleniti, nemo.</span>
+        </div>
+        <div class="col-4 g-0 elevation-2">
+          <img src="https://gaymingmag.com/wp-content/uploads/2020/11/kiryukazama.jpg" alt="" class="side-image">
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row d-md-none">
 
   </div>
 </div>
@@ -78,9 +102,25 @@ export default {
       ease: "elastic"
     })
     gsap.from(".upper-bio-bg", {
-      delay: 0.65,
-      duration: 2,
+      delay: 0.7,
+      duration: 2.2,
       opacity: 0
+    })
+    gsap.fromTo(".right-to-left", {
+      x: 4000
+    }, {
+      delay: 1,
+      duration: 2,
+      ease: "power1.out",
+      x: 0
+    })
+    gsap.fromTo(".left-to-right", {
+      x: -4000
+    }, {
+      delay: 2,
+      duration: 2,
+      ease: "power1.out",
+      x: 0
     })
     })
     return {
@@ -99,6 +139,10 @@ export default {
     color: white;
   }
 
+  .social{
+    justify-content: center;
+  }
+
   .subtitle{
     font-size: 1.4em;
     font-style: italic;
@@ -108,15 +152,14 @@ export default {
     .fancy{
       text-align: start;
     }
+
+    .social{
+      justify-content: flex-start;
+    }
     
   }
 
-  .big{
-    font-size: 2.5em;
-  }
-
   .underline{
-    // text-decoration: underline;
     border-bottom: 1px solid white;
   }
 
@@ -133,12 +176,18 @@ export default {
   }
 
   .upper-bio-bg{
-    height: 50vh;
+    height: 45vh;
     background: rgb(48,44,44);
     background: linear-gradient(90deg, rgba(48,44,44,1) 0%, rgba(255,255,255,1) 100%);
   }
 
   .headshot{
     height: 90%;
+  }
+
+  .side-image{
+    height: 35vh;
+    width: 100%;
+    object-fit: cover;
   }
 </style>

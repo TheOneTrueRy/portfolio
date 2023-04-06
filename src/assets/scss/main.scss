@@ -8,6 +8,12 @@ body{
   overscroll-behavior: none;
 }
 
+html{
+  ::-webkit-scrollbar{
+    display: none;
+  }
+}
+
 #app {
   display: flex;
   flex-direction: column;
