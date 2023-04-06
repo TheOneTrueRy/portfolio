@@ -8,24 +8,32 @@
     </div>
     <div class="col-4 col-md-1 offset-md-4 text-center">
       <div class="social">
-        <a href="https://github.com/TheOneTrueRy" target="_blank" class="hover" title="Visit my GitHub profile."><span class="fs-5 underline text-light">GitHub</span></a>
+        <div class="hover">
+          <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">GitHub</span></a>
+        </div>
       </div>
     </div>
     <div class="col-4 col-md-1 text-center">
       <div class="social">
-        <a href="https://www.linkedin.com/in/theonetruery/" target="_blank" class="hover" title="Visit my LinkedIn profile."><span class="fs-5 underline text-light">LinkedIn</span></a>
+        <div class="hover">
+        <a href="https://www.linkedin.com/in/theonetruery/" target="_blank" title="Visit my LinkedIn profile."><span class="fs-5 underline text-light">LinkedIn</span></a>
+        </div>
       </div>
     </div>
     <div class="col-4 col-md-1 text-center">
       <div class="social">
-        <a href="https://codeworks.prentus.co/p/ryan-wittman" target="_blank" class="hover" title="Visit my Prentus profile."><span class="fs-5 underline text-light">Prentus</span></a>
+        <div class="hover">
+        <a href="https://codeworks.prentus.co/p/ryan-wittman" target="_blank" title="Visit my Prentus profile."><span class="fs-5 underline text-light">Prentus</span></a>
+        </div>
       </div>
     </div>
   </div>
   <div class="row upper-bio-bg bg-gradient">
 
   </div>
-  <div class="row"></div>
+  <div class="row lower-bio-bg">
+
+  </div>
 </div>
 </template>
 
@@ -48,7 +56,7 @@ export default {
     })
     gsap.from(".social", {
       duration: 2,
-      delay: 0.3,
+      delay: 0.15,
       scale: 0.8,
       opacity: 0,
       stagger: 0.2,
@@ -78,6 +86,10 @@ export default {
 
   .hover:hover{
     transform: scale(1.1);
+  }
+
+  .hover:active{
+    transform: scale(0.9);
   }
 
   .upper-bio-bg{
