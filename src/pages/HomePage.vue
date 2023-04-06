@@ -27,8 +27,9 @@ export default {
 
 <style scoped lang="scss">
   .fancy{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Patua One', cursive;
     text-shadow: 1px 1px 0 black;
+    letter-spacing: 1px;
   }
 
   .underline{

@@ -3,8 +3,10 @@
     <router-view />
   </main>
   <footer class="bg-dark text-light text-center">
-    <span class="fs-5">Made with Vue 3 and SCSS.</span>
-    <span class="fs-5"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman</span>
+    <marquee class="vw-100">
+      <span class="fs-5">Made with Vue 3 and SCSS.</span>
+      <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman</span>
+    </marquee>
   </footer>
 </template>
 
