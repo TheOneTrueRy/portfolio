@@ -14,13 +14,24 @@
       <a href="https://codeworks.prentus.co/p/ryan-wittman" target="_blank" class="hover" title="Visit my Prentus profile."><span class="fs-5 underline text-light">Prentus</span></a>
     </div>
   </div>
+  <div class="row upper-bio-bg bg-gradient">
+
+  </div>
+  <div class="row"></div>
 </div>
 </template>
 
 <script>
+import { gsap } from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
+
 export default {
   setup() {
-    return {}
+    return {
+      
+    }
   }
 }
 </script>
@@ -42,5 +53,10 @@ export default {
 
   .hover:hover{
     transform: scale(1.1);
+  }
+
+  .upper-bio-bg{
+    height: 40vh;
+    background-color: rgb(183, 28, 59);
   }
 </style>
