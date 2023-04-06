@@ -33,6 +33,6 @@ export default {
 footer {
   display: grid;
   place-content: center;
-  height: 32px;
+  // height: 32px;
 }
 </style>
