@@ -60,12 +60,12 @@
       </div>
     </div>
     <div class="col-12">
-      <div class="row left-to-right">
-        <div class="col-8 bg-dark border px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2">
+      <div class="row left-to-right vh-37">
+        <div class="col-8 bg-dark border px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2 h-100 overflow">
           <span class="fs-3 pt-1">Personal Life</span>
-          <span class="pt-4 px-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem rerum veniam numquam eum? Nobis quam vero modi! Quis accusantium in impedit, ducimus dignissimos repudiandae sapiente et alias aliquid. Deleniti, nemo.</span>
+          <span class="pt-4 px-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ducimus est reprehenderit. Nisi at dolorem dignissimos vel atque soluta rerum, illum incidunt saepe non odit perferendis eaque ipsam officiis dolor dolore fugit exercitationem quidem quaerat quia inventore molestias mollitia. Ea fuga cupiditate, soluta quaerat sapiente maxime eveniet nostrum quisquam libero nobis asperiores eius saepe. Saepe iusto corrupti error consectetur numquam aliquid. Commodi explicabo pariatur beatae quas iusto officiis distinctio autem, alias consequuntur? Magnam alias quidem, laboriosam unde repellendus, dolorem facilis saepe totam ratione aperiam nulla, cupiditate nesciunt eligendi consectetur commodi?</span>
         </div>
-        <div class="col-4 g-0 elevation-2">
+        <div class="col-4 g-0 elevation-2 h-100">
           <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt="" class="side-image">
         </div>
       </div>
