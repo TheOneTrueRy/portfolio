@@ -1,11 +1,6 @@
 <template>
 <div class="container-fluid">
   <div class="row align-items-center bg-dark elevation-1 py-3">
-    <!-- <div class="col-12 col-md-5">
-      <div class="fancy">
-        <span class="big">Ryan Wittman</span>
-      </div>
-    </div> -->
     <div class="col-6 col-md-3 col-lg-2 ps-4">
       <div class="social d-flex">
         <div class="hover">
@@ -20,13 +15,6 @@
         </div>
       </div>
     </div>
-    <!-- <div class="col-4 col-md-2 text-center">
-      <div class="social">
-        <div class="hover">
-        <a href="https://codeworks.prentus.co/p/ryan-wittman" target="_blank" title="Visit my Prentus profile."><span class="fs-5 underline text-light">Prentus</span></a>
-        </div>
-      </div>
-    </div> -->
     <div class="col-12 col-md-4 col-lg-3">
       <div class="social d-flex">
         <div class="hover">
