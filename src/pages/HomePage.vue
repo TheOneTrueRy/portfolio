@@ -109,16 +109,16 @@ export default {
     gsap.fromTo(".right-to-left", {
       x: 4000
     }, {
-      delay: 1,
-      duration: 2,
+      delay: 0.9,
+      duration: 1.8,
       ease: "power1.out",
       x: 0
     })
     gsap.fromTo(".left-to-right", {
       x: -4000
     }, {
-      delay: 2,
-      duration: 2,
+      delay: 1.8,
+      duration: 1.8,
       ease: "power1.out",
       x: 0
     })
