@@ -48,13 +48,14 @@
   </div>
   <div class="row d-none d-md-flex">
     <div class="col-12">
-      <div class="row right-to-left">
-        <div class="col-4 g-0 elevation-2">
+      <div class="row right-to-left vh-37">
+        <div class="col-4 g-0 elevation-2 h-100">
           <img src="https://media.timeout.com/images/105207533/image.jpg" alt="" class="side-image">
         </div>
-        <div class="col-8 bg-dark border px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2">
+        <div class="col-8 bg-dark border px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2 h-100 overflow">
           <span class="fs-3 pt-1">Coding Experience</span>
-          <span class="pt-4 px-5">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem rerum veniam numquam eum? Nobis quam vero modi! Quis accusantium in impedit, ducimus dignissimos repudiandae sapiente et alias aliquid. Deleniti, nemo.</span>
+          <span class="pt-4 px-5">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll always be forever grateful for such a great change in my life!</span>
+          <span class="pt-3 px-5">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods.</span>
         </div>
       </div>
     </div>
@@ -71,7 +72,36 @@
     </div>
   </div>
   <div class="row d-md-none">
+    <div class="col-12 py-3 px-2">
+      <div class="rounded p-1 d-flex flex-column text-center">
+        <span>
 
+        </span>
+        <span>
+
+        </span>
+      </div>
+    </div>
+    <div class="col-12 py-3 px-2">
+      <div class="rounded p-1 d-flex flex-column text-center">
+        <span>
+
+        </span>
+        <span>
+
+        </span>
+      </div>
+    </div>
+    <div class="col-12 py-3 px-2">
+      <div class="rounded p-1 d-flex flex-column text-center">
+        <span>
+
+        </span>
+        <span>
+
+        </span>
+      </div>
+    </div>
   </div>
 </div>
 </template>
@@ -188,8 +218,20 @@ export default {
   }
 
   .side-image{
-    height: 35vh;
+    height: 100%;
     width: 100%;
     object-fit: cover;
+  }
+
+  .vh-37{
+    height: 37vh;
+  }
+
+  .overflow{
+    overflow-y: scroll;
+  }
+
+  .overflow::-webkit-scrollbar{
+    display: none;
   }
 </style>
