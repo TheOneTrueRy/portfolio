@@ -40,18 +40,19 @@
         <div class="col-12 col-md-4 g-0 elevation-2 mobile-h-50">
           <img src="https://media.timeout.com/images/105207533/image.jpg" alt="" class="side-image">
         </div>
-        <div class="col-12 col-md-8 bg-dark px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
-          <span class="fs-3 pt-1">Coding Experience</span>
-          <span class="pt-4 px-1">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life!</span>
-          <span class="pt-3 px-1 pb-2">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods.</span>
+        <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
+          <span class="fs-2 pt-1">Coding Experience</span>
+          <span class="pt-4 px-3">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life!</span>
+          <span class="pt-3 px-3 pb-2">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods.</span>
         </div>
       </div>
     </div>
     <div class="col-12">
       <div class="row left-to-right border vh-37 mobile-card">
-        <div class="col-12 col-md-8 order-md-1 order-2 bg-dark px-5 py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
-          <span class="fs-3 pt-1">Personal Life</span>
-          <span class="pt-4 px-1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus ducimus est reprehenderit. Nisi at dolorem dignissimos vel atque soluta rerum, illum incidunt saepe non odit perferendis eaque ipsam officiis dolor dolore fugit exercitationem quidem quaerat quia inventore molestias mollitia. Ea fuga cupiditate, soluta quaerat sapiente maxime eveniet nostrum quisquam libero nobis asperiores eius saepe. Saepe iusto corrupti error consectetur numquam aliquid. Commodi explicabo pariatur beatae quas iusto officiis distinctio autem, alias consequuntur? Magnam alias quidem, laboriosam unde repellendus, dolorem facilis saepe totam ratione aperiam nulla, cupiditate nesciunt eligendi consectetur commodi?</span>
+        <div class="col-12 col-md-8 order-md-1 order-2 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
+          <span class="fs-2 pt-1">Personal Life</span>
+          <span class="pt-4 px-3">I've spent most my life on a computer and using all kinds of software, gradually learning the ins and outs of them and gaining a natural affinity to them after nearly two decades of usage.</span>
+          <span class="pt-3 px-3 pb-2">Throughout that time, I have always proudly been a gamer. Spending my time on all kinds of video games has given me more skills and advantages than I can even fully describe. From being able to naturally meld and socialize with just about anyone due to all of my time on MMOs, to my efficiency and attention to every little detail, even in high-stress environments, that came from my time playing competitively on multiplayer shooters.</span>
         </div>
         <div class="col-12 col-md-4 order-md-2 order-1 g-0 elevation-2 mobile-h-50">
           <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt="" class="side-image">
