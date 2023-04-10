@@ -65,18 +65,18 @@
       </div>
     </div>
   </div>
-  <div class="row">
+  <div class="row bg-dark">
     <div class="col-12 text-center pt-1 pb-5">
       <span class="fs-1">Projects:</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
-      <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-1">
-        <div class="col-4 g-0 bg-dark rounded-left">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
+      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark">
+        <div class="col-12 col-md-4 g-0 text-center">
+          <img src="Gratuities-Gold-G.png" alt="" class="vh-25">
         </div>
-        <div class="col-8 d-flex flex-column p-3 pt-2 pb-4 rounded-right bg-dark">
-          <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5">Project Name</span>
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
+          <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
+            <span class="fs-5 gratuities">Gratuities</span>
           </a>
           <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
         </div>
@@ -84,11 +84,11 @@
       <div class="project-card-end-1"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-2">
-        <div class="col-4 g-0 bg-dark rounded-left">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
+      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border">
+        <div class="col-12 col-md-4 g-0">
+          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
         </div>
-        <div class="col-8 d-flex flex-column p-3 pt-2 pb-4 rounded-right bg-dark">
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5">Project Name</span>
           </a>
@@ -98,11 +98,11 @@
       <div class="project-card-end-2"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-3">
-        <div class="col-4 g-0 bg-dark rounded-left">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border">
+        <div class="col-12 col-md-4 g-0">
+          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
         </div>
-        <div class="col-8 d-flex flex-column p-3 pt-2 pb-4 rounded-right bg-dark">
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5">Project Name</span>
           </a>
@@ -112,11 +112,11 @@
       <div class="project-card-end-3"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-4">
-        <div class="col-4 g-0 bg-dark rounded-left">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
+      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border">
+        <div class="col-12 col-md-4 g-0">
+          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
         </div>
-        <div class="col-8 d-flex flex-column p-3 pt-2 pb-4 rounded-right bg-dark">
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5">Project Name</span>
           </a>
@@ -244,16 +244,6 @@ export default {
     border-bottom: 1px solid white;
   }
 
-  .rounded-left{
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
-  }
-
-  .rounded-right{
-    border-top-right-radius: 10px;
-    border-bottom-right-radius: 10px;
-  }
-
   .vh-25{
     height: 25vh;
   }
@@ -268,11 +258,6 @@ export default {
   
   .hover:active{
     transform: scale(0.9);
-  }
-
-  .hover-link{
-    transition: 0.5s;
-    color: white;
   }
 
   .hover-link:hover{
@@ -313,7 +298,11 @@ export default {
     .mobile-h-50{
       height: 37vh;
     }
+  }
 
+  .gratuities{
+    font-family: 'Rowdies', cursive;
+    color: #06d6a0;
   }
   
 </style>
