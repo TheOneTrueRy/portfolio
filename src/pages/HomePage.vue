@@ -1,14 +1,19 @@
 <template>
 <div class="container-fluid">
   <div class="row align-items-center bg-dark elevation-1 py-3">
-    <div class="col-6 col-md-3 col-lg-2 ps-4">
+    <div class="col-12 col-md-3 col-lg-2 ps-4">
       <div class="social d-flex">
         <div class="hover">
-          <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">GitHub <i class="mdi mdi-github"></i></span></a>
+          <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">My GitHub <i class="mdi mdi-github"></i></span></a>
         </div>
       </div>
     </div>
-    <div class="col-6 col-md-3 col-lg-2">
+    <div class="col-12 col-md-3 col-lg-2">
+      <span class="fs-5">
+        Contact Me:
+      </span>
+    </div>
+    <div class="col-12 col-md-3 col-lg-2">
       <div class="social d-flex">
         <div class="hover">
         <a href="https://www.linkedin.com/in/theonetruery/" target="_blank" title="Visit my LinkedIn profile."><span class="fs-5 underline text-light">LinkedIn <i class="mdi mdi-linkedin"></i></span></a>
@@ -64,7 +69,7 @@
     <div class="col-12 text-center pt-1 pb-5">
       <span class="fs-1">Projects:</span>
     </div>
-    <div class="col-8 offset-2 pb-4 pt-1 px-5 d-flex flex-column">
+    <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-1">
         <div class="col-4 g-0 bg-dark rounded-left">
           <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
@@ -78,7 +83,7 @@
       </div>
       <div class="project-card-end-1"></div>
     </div>
-    <div class="col-8 d-flex flex-column offset-2 pb-4 pt-1 px-5">
+    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-2">
         <div class="col-4 g-0 bg-dark rounded-left">
           <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
@@ -92,7 +97,7 @@
       </div>
       <div class="project-card-end-2"></div>
     </div>
-    <div class="col-8 d-flex flex-column offset-2 pb-4 pt-1 px-5">
+    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-3">
         <div class="col-4 g-0 bg-dark rounded-left">
           <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
@@ -106,7 +111,7 @@
       </div>
       <div class="project-card-end-3"></div>
     </div>
-    <div class="col-8 d-flex flex-column offset-2 pb-4 pt-1 px-5">
+    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded-left rounded-right vh-25 project-card-4">
         <div class="col-4 g-0 bg-dark rounded-left">
           <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="rounded-left vh-25 w-100">
@@ -179,28 +184,28 @@ export default {
     gsap.from(".project-card-1", {
       scrollTrigger: ".project-card-end-1",
       opacity: 0,
-      duration: 1.4,
+      duration: 1.1,
       scale: 0.2,
       // ease: "elastic"
     })
     gsap.from(".project-card-2", {
       scrollTrigger: ".project-card-end-2",
       opacity: 0,
-      duration: 1.4,
+      duration: 1.1,
       scale: 0.2,
       // ease: "elastic"
     })
     gsap.from(".project-card-3", {
       scrollTrigger: ".project-card-end-3",
       opacity: 0,
-      duration: 1.4,
+      duration: 1.1,
       scale: 0.2,
       // ease: "elastic"
     })
     gsap.from(".project-card-4", {
       scrollTrigger: ".project-card-end-4",
       opacity: 0,
-      duration: 1.4,
+      duration: 1.1,
       scale: 0.2,
       // ease: "elastic"
     })
