@@ -9,9 +9,11 @@
       </div>
     </div>
     <div class="col-12 col-md-3 col-lg-2">
-      <span class="fs-5">
-        Contact Me:
-      </span>
+      <div class="social">
+        <span class="fs-5">
+          Contact Me:
+        </span>
+      </div>
     </div>
     <div class="col-12 col-md-3 col-lg-2">
       <div class="social d-flex">
@@ -71,11 +73,11 @@
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark">
-        <div class="col-12 col-md-4 g-0 text-center">
-          <img src="Gratuities-Gold-G.png" alt="" class="vh-25">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <img src="Gratuities-Logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
+          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <span class="fs-5 gratuities">Gratuities</span>
           </a>
           <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
@@ -85,12 +87,12 @@
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border">
-        <div class="col-12 col-md-4 g-0">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <img src="Tower-Logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5">Project Name</span>
+          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+            <span class="fs-5 tower fw-bold">Tower</span>
           </a>
           <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
         </div>
@@ -99,12 +101,12 @@
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border">
-        <div class="col-12 col-md-4 g-0">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <img src="KEEPER-full-logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5">Project Name</span>
+            <span class="fs-5 keeper">Keeper</span>
           </a>
           <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
         </div>
@@ -113,12 +115,12 @@
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border">
-        <div class="col-12 col-md-4 g-0">
-          <img src="https://th.bing.com/th/id/OIP.evPgZ1nRZkmMB1iMadd1VwHaEK?pid=ImgDet&rs=1" alt="" class="vh-25">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <img src="the-moon.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5">Project Name</span>
+          <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
+            <span class="fs-5 moon-miner">Moon Miner</span>
           </a>
           <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
         </div>
@@ -161,7 +163,7 @@ export default {
       ease: "elastic"
     })
     gsap.from(".upper-bio-bg", {
-      delay: 0.7,
+      delay: 0.8,
       duration: 2.2,
       opacity: 0
     })
@@ -176,7 +178,7 @@ export default {
     gsap.fromTo(".left-to-right", {
       x: -4000
     }, {
-      delay: 1.8,
+      delay: 1.7,
       duration: 1.8,
       ease: "power1.out",
       x: 0
@@ -186,28 +188,24 @@ export default {
       opacity: 0,
       duration: 1.1,
       scale: 0.2,
-      // ease: "elastic"
     })
     gsap.from(".project-card-2", {
       scrollTrigger: ".project-card-end-2",
       opacity: 0,
       duration: 1.1,
       scale: 0.2,
-      // ease: "elastic"
     })
     gsap.from(".project-card-3", {
       scrollTrigger: ".project-card-end-3",
       opacity: 0,
       duration: 1.1,
       scale: 0.2,
-      // ease: "elastic"
     })
     gsap.from(".project-card-4", {
       scrollTrigger: ".project-card-end-4",
       opacity: 0,
       duration: 1.1,
       scale: 0.2,
-      // ease: "elastic"
     })
     })
     return {
@@ -224,6 +222,11 @@ export default {
     letter-spacing: 1px;
     font-size: 2.3em;
     color: white;
+  }
+
+  .max{
+    max-width: 100%;
+    max-height: 100%;
   }
 
   .mobile-h-50{
@@ -303,6 +306,23 @@ export default {
   .gratuities{
     font-family: 'Rowdies', cursive;
     color: #06d6a0;
+  }
+
+  .tower{
+    font-family: 'Nunito', sans-serif;
+    color: #b22222;
+  }
+
+  .keeper{
+    font-family: 'Bungee', cursive;
+    color: #48005f;
+    text-shadow: 0px 0px 2px white;
+  }
+
+  .moon-miner{
+    font-family: 'Righteous', cursive;
+    color: white;
+    text-shadow: 1px 2px 0px orange;
   }
   
 </style>
