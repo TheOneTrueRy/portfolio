@@ -50,7 +50,7 @@
         <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
           <span class="fs-2 pt-1">Coding Experience</span>
           <span class="pt-4 px-3">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life!</span>
-          <span class="pt-3 px-3 pb-2">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods.</span>
+          <span class="pt-3 px-3 pb-2">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods. I also am already putting time into learning React!</span>
         </div>
       </div>
     </div>
