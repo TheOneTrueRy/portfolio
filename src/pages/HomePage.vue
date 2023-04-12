@@ -31,14 +31,14 @@
     </div>
   </div>
   <div class="row upper-bio-bg elevation-4">
-    <div class="col-12 col-md-6 d-flex align-items-center justify-content-center bingbong">
+    <div class="col-12 col-md-6 d-flex align-items-center justify-content-center">
       <div class="p-4 rounded d-flex flex-column">
         <span class="fancy">Ryan Wittman</span>
         <span class="subtitle text-light text-shadow">Designer & Developer</span>
       </div>
     </div>
     <div class="col-6 g-0 d-none d-md-flex justify-content-end align-items-end h-100">
-      <img src="Actual-Ry.png" alt="Ryan Wittman Headshot" class="headshot">
+      <img src="/Actual-Ry.png" alt="Ryan Wittman Headshot" class="headshot">
     </div>
   </div>
   <div class="row">
@@ -74,7 +74,7 @@
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <img src="Gratuities-Logo.png" alt="" class="max">
+          <img src="/Gratuities-Logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
@@ -88,7 +88,7 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <img src="Tower-Logo.png" alt="" class="max">
+          <img src="/Tower-Logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
@@ -102,7 +102,7 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <img src="KEEPER-full-logo.png" alt="" class="max">
+          <img src="/KEEPER-full-logo.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
@@ -116,7 +116,7 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <img src="the-moon.png" alt="" class="max">
+          <img src="/the-moon.png" alt="" class="max">
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
