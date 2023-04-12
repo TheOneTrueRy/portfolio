@@ -72,7 +72,7 @@
       <span class="fs-1">Projects:</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
-      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark">
+      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <img src="Gratuities-Logo.png" alt="" class="max">
         </div>
@@ -80,13 +80,13 @@
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <span class="fs-5 gratuities">Gratuities</span>
           </a>
-          <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
+          <span class="pt-2">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Full-Stack Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
         </div>
       </div>
       <div class="project-card-end-1"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border">
+      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <img src="Tower-Logo.png" alt="" class="max">
         </div>
@@ -94,13 +94,13 @@
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 tower fw-bold">Tower</span>
           </a>
-          <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
+          <span class="pt-2">Ticket scalpers be gone! This full-stack web app allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
         </div>
       </div>
       <div class="project-card-end-2"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <img src="KEEPER-full-logo.png" alt="" class="max">
         </div>
@@ -108,13 +108,13 @@
           <a href="https://" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 keeper">Keeper</span>
           </a>
-          <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
+          <span class="pt-2">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
         </div>
       </div>
       <div class="project-card-end-3"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border">
+      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <img src="the-moon.png" alt="" class="max">
         </div>
@@ -122,7 +122,7 @@
           <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 moon-miner">Moon Miner</span>
           </a>
-          <span class="pt-2">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita provident a, quam natus labore dolorum omnis similique in ipsam impedit!</span>
+          <span class="pt-2">A simple and fun front-end clicker game website where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
         </div>
       </div>
     </div>
