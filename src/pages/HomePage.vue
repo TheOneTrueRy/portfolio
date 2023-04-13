@@ -72,7 +72,7 @@
       <span class="fs-1">Projects:</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
-      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark my-2">
+      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <img src="/Gratuities-Logo.png" alt="" class="max">
         </div>
