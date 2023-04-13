@@ -130,6 +130,7 @@
   </div>
   <div class="row bg-dark text-light text-center">
     <marquee class="w-100">
+      <!-- test here -->
       <span class="fs-5">Made with Vue 3, SCSS, and GSAP.</span>
       <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman</span>
     </marquee>
