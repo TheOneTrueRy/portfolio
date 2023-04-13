@@ -272,7 +272,7 @@ export default {
   
   .upper-bio-bg{
     height: 45vh;
-    background-image: url("BackgroundByCy3.png");
+    background-image: url("/BackgroundByCy3.png");
     background-size: cover;
   }
   
