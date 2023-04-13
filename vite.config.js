@@ -6,7 +6,8 @@ export default defineConfig({
   plugins: [vue()],
   build: {
     outDir: 'docs',
-    sourcemap: false
+    sourcemap: false,
+    assetsDir: 'assets'
   },
   server: {
     port: 8080
