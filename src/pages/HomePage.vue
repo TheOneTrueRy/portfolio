@@ -1,34 +1,70 @@
 <template>
-<div class="container-fluid">
-  <div class="row align-items-center bg-dark elevation-1 py-3">
-    <div class="col-12 col-md-3 col-lg-2 ps-4">
+<div class="container-fluid g-0">
+  <div class="d-md-flex align-items-center justify-content-start bg-dark elevation-1 py-3 d-none">
+    <div class="social">
+      <div class="hover">
+        <a href="http://" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
+          <span class="fs-5">
+            My GitHub <i class="mdi mdi-github"></i>
+          </span>
+        </a>
+      </div>
+    </div>
+    <div class="social">
+      <span class="fs-5 text-light ms-4">
+        Contact Me:
+      </span>
+    </div>
+    <div class="social">
+      <div class="hover">
+        <a href="http://" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
+          <span class="fs-5">
+            LinkedIn <i class="mdi mdi-linkedin"></i>
+          </span>
+        </a>
+      </div>
+    </div>
+    <div class="social">
+      <div class="hover">
+        <a href="mailto:officiallyry@outlook.com" class="text-light underline ms-4">
+          <span class="fs-5">
+            OfficiallyRy@outlook.com <i class="mdi mdi-email"></i>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    </div>
+    <div class="row d-md-none align-items-center bg-dark py-2">
+    <div class="col-12">
       <div class="social d-flex">
         <div class="hover">
           <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">My GitHub <i class="mdi mdi-github"></i></span></a>
         </div>
       </div>
     </div>
-    <div class="col-12 col-md-3 col-lg-2">
-      <div class="social">
+    <div class="col-12 text-center">
+      <div class="social mt-2">
         <span class="fs-5">
           Contact Me:
         </span>
       </div>
     </div>
-    <div class="col-12 col-md-3 col-lg-2">
+    <div class="col-12">
       <div class="social d-flex">
         <div class="hover">
         <a href="https://www.linkedin.com/in/theonetruery/" target="_blank" title="Visit my LinkedIn profile."><span class="fs-5 underline text-light">LinkedIn <i class="mdi mdi-linkedin"></i></span></a>
         </div>
       </div>
     </div>
-    <div class="col-12 col-md-4 col-lg-3">
+    <div class="col-12">
       <div class="social d-flex">
         <div class="hover">
           <a href="mailto:OfficiallyRy@outlook.com"><span class="fs-5 underline text-light">OfficiallyRy@outlook.com <i class="mdi mdi-email"></i></span></a>
         </div>
       </div>
     </div>
+
   </div>
   <div class="row upper-bio-bg elevation-4">
     <div class="col-12 col-md-6 d-flex align-items-center justify-content-center">
@@ -301,6 +337,10 @@ export default {
     
     .mobile-h-50{
       height: 37vh;
+    }
+
+    .md-p{
+      padding-left: 20px;
     }
   }
 
