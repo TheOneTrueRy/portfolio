@@ -104,8 +104,9 @@
     </div>
   </div>
   <div class="row bg-dark">
-    <div class="col-12 text-center pt-1 pb-5">
+    <div class="col-12 text-center d-flex flex-column pt-1 pb-5">
       <span class="fs-1">Projects:</span>
+      <span class="mt-1">(Due to it being a free site hosting service, projects with "onrender" links may take up to about 2 minutes to load)</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
