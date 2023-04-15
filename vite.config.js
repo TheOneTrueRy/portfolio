@@ -8,7 +8,7 @@ export default defineConfig({
     outDir: 'docs',
     sourcemap: false
   },
-  base: '/portfolio/',
+  // base: '/portfolio/',
   server: {
     port: 8080
   }
