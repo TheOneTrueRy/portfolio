@@ -85,8 +85,8 @@
         </div>
         <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
           <span class="fs-2 pt-1">Coding Experience</span>
-          <span class="pt-4 px-3">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life!</span>
-          <span class="pt-3 px-3 pb-2">I now have experience making dozens of projects both solo and in team settings utilizing HTML, (S)CSS, JavaScript, Vue, NodeJs, Express, C#, .NET, and Scrum/Agile methods. I also am already putting time into learning React!</span>
+          <span class="pt-4 px-3">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that enables me to go to work (on the code) every day excited and wanting more.</span>
+          <span class="pt-3 px-3 pb-2">I now have experience making over 40 projects both solo and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, NodeJs, Express, C#, .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn next in order to take my applications to the next level and give clients exactly what they dream of!</span>
         </div>
       </div>
     </div>
@@ -94,8 +94,8 @@
       <div class="row left-to-right border vh-37 mobile-card">
         <div class="col-12 col-md-8 order-md-1 order-2 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
           <span class="fs-2 pt-1">Personal Life</span>
-          <span class="pt-4 px-3">I've spent most my life on a computer and using all kinds of software, gradually learning the ins and outs of them and gaining a natural affinity to them after nearly two decades of usage.</span>
-          <span class="pt-3 px-3 pb-2">Throughout that time, I have always proudly been a gamer. Spending my time on all kinds of video games has given me more skills and advantages than I can even fully describe. From being able to naturally meld and socialize with just about anyone due to all of my time on MMOs, to my efficiency and attention to every little detail, even in high-stress environments, that came from my time playing competitively on multiplayer shooters.</span>
+          <span class="pt-4 px-3">I've spent nearly my entire life on techonology using all kinds of software, gradually learning the ins and outs of them. With that has naturally come too many technical skills for me to even count, allowing me to have an affinity and advantage when it comes to computers. Eventually I realized that software development was the natural next step, and haven't regretted it a day since!</span>
+          <span class="pt-3 px-3 pb-2">Throughout that time, I have always proudly been a gamer. Spending my time on all kinds of video games has given me more skills and advantages than I can even fully describe. From being able to naturally meld, socialize, and manage projects full of people due to all of my time on MMOs, to my efficiency and attention to every little detail, even in high-stress environments, that came from my time playing competitively on multiplayer shooters.</span>
         </div>
         <div class="col-12 col-md-4 order-md-2 order-1 g-0 elevation-2 mobile-h-50">
           <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt="" class="side-image">
@@ -104,20 +104,23 @@
     </div>
   </div>
   <div class="row bg-dark">
-    <div class="col-12 text-center d-flex flex-column pt-1 pb-5">
+    <div class="col-12 text-center d-flex flex-column pt-1 pb-5 px-4">
       <span class="fs-1">Projects:</span>
       <span class="mt-1">(Due to it being a free site hosting service, projects with "onrender" links may take up to about 2 minutes to load)</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
           <img src="/Gratuities-Logo.png" alt="" class="max">
+          </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <span class="fs-5 gratuities">Gratuities</span>
           </a>
-          <span class="pt-2">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Full-Stack Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
+          <span class="pt-2 fs-5">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
+          <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3 frontend, and both the QR Code & Courier APIs)</i></span>
         </div>
       </div>
       <div class="project-card-end-1"></div>
@@ -125,13 +128,16 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer">
           <img src="/Tower-Logo.png" alt="" class="max">
+          </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 tower fw-bold">Tower</span>
           </a>
-          <span class="pt-2">Ticket scalpers be gone! This full-stack web app allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
+          <span class="pt-2 fs-5">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
+          <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, a MongoDb Database, and a Vue 3 frontend)</i></span>
         </div>
       </div>
       <div class="project-card-end-2"></div>
@@ -145,7 +151,8 @@
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 keeper">Keeper</span>
           </a>
-          <span class="pt-2">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
+          <span class="pt-2 fs-5">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
+          <span class="pt-3"><i>(Full-Stack App made using a .NET (C#) backend, a mySQL database, and a Vue 3 frontend)</i></span>
         </div>
       </div>
       <div class="project-card-end-3"></div>
@@ -159,7 +166,9 @@
           <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 moon-miner">Moon Miner</span>
           </a>
-          <span class="pt-2">A simple and fun front-end clicker game website where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
+          <span class="pt-2 fs-5">A simple and fun clicker game where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
+          <span class="pt-3">I am especially proud of my front-end work on this project, especially as it was very early on in my software development days, so it holds a special place in my heart.</span>
+          <span class="pt-2"><i>(Front-End App using just HTML, JavaScript, CSS, and Bootstrap)</i></span>
         </div>
       </div>
     </div>
