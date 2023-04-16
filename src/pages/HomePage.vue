@@ -83,19 +83,19 @@
         <div class="col-12 col-md-4 g-0 elevation-2 mobile-h-50">
           <img src="https://media.timeout.com/images/105207533/image.jpg" alt="" class="side-image">
         </div>
-        <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
+        <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 my-overflow">
           <span class="fs-2 pt-1">Coding Experience</span>
-          <span class="pt-4 px-3">In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that enables me to go to work (on the code) every day excited and wanting more.</span>
-          <span class="pt-3 px-3 pb-2">I now have experience making over 40 projects both solo and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, NodeJs, Express, C#, .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn next in order to take my applications to the next level and give clients exactly what they dream of!</span>
+          <span class="pt-4 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that enables me to go to work (on the code) every day excited and wanting more.</span>
+          <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both solo and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, NodeJs, Express, C#, .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn next in order to take my applications to the next level and give clients exactly what they dream of!</span>
         </div>
       </div>
     </div>
     <div class="col-12">
       <div class="row left-to-right border vh-37 mobile-card">
-        <div class="col-12 col-md-8 order-md-1 order-2 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 overflow">
+        <div class="col-12 col-md-8 order-md-1 order-2 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 my-overflow">
           <span class="fs-2 pt-1">Personal Life</span>
-          <span class="pt-4 px-3">I've spent nearly my entire life on techonology using all kinds of software, gradually learning the ins and outs of them. With that has naturally come too many technical skills for me to even count, allowing me to have an affinity and advantage when it comes to computers. Eventually I realized that software development was the natural next step, and haven't regretted it a day since!</span>
-          <span class="pt-3 px-3 pb-2">Throughout that time, I have always proudly been a gamer. Spending my time on all kinds of video games has given me more skills and advantages than I can even fully describe. From being able to naturally meld, socialize, and manage projects full of people due to all of my time on MMOs, to my efficiency and attention to every little detail, even in high-stress environments, that came from my time playing competitively on multiplayer shooters.</span>
+          <span class="pt-4 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology, utilizing a variety of software and gradually learning the ins and outs of them. With that has naturally come more technical skills for me to even count, allowing me to have an affinity for computers. Eventually I realized that software development was the natural next step, and haven't regretted it a day since!</span>
+          <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Throughout that time, I have always proudly been a gamer. Spending my free time on numerous types of video games has given me more skills and advantages, such as being able to naturally meld, socialize, and manage projects full of people due to all of my time on MMOs. My experience playing competitively on multiple shooters has also helped me develop elevated efficiency and attention to every little detail, even in high-stress environments.</span>
         </div>
         <div class="col-12 col-md-4 order-md-2 order-1 g-0 elevation-2 mobile-h-50">
           <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt="" class="side-image">
@@ -195,29 +195,22 @@ export default {
   setup() {
 
     onMounted(() => {
-    gsap.from(".fancy", {
-      duration: 2,
-      scale: 0.8,
-      opacity: 0,
-      ease: "elastic"
-    })
     gsap.from(".social", {
       duration: 2,
-      delay: 0.15,
       scale: 0.8,
       opacity: 0,
       stagger: 0.2,
       ease: "elastic"
     })
     gsap.from(".upper-bio-bg", {
-      delay: 0.8,
+      delay: 1,
       duration: 2.2,
       opacity: 0
     })
     gsap.fromTo(".right-to-left", {
       x: 4000
     }, {
-      delay: 0.9,
+      delay: 1,
       duration: 1.8,
       ease: "power1.out",
       x: 0
@@ -225,7 +218,7 @@ export default {
     gsap.fromTo(".left-to-right", {
       x: -4000
     }, {
-      delay: 1.7,
+      delay: 1.8,
       duration: 1.8,
       ease: "power1.out",
       x: 0
@@ -269,6 +262,11 @@ export default {
     letter-spacing: 1px;
     font-size: 2.3em;
     color: white;
+  }
+
+  .my-px{
+    padding-left: 1.5em;
+    padding-right: 1.5em;
   }
 
   .max{
@@ -335,6 +333,14 @@ export default {
   .vh-37{
     min-height: 37vh;
   }
+
+  .my-overflow{
+    overflow-y: scroll;
+  }
+
+  .my-overflow::-webkit-scrollbar{
+    display: none;
+  }
   
   @media screen and (min-width: 768px) {
     .fancy{
@@ -349,8 +355,9 @@ export default {
       height: 37vh;
     }
 
-    .md-p{
-      padding-left: 20px;
+    .my-px{
+      padding-left: 6em;
+      padding-right: 6em;
     }
   }
 
