@@ -119,11 +119,10 @@
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <span class="fs-5 gratuities">Gratuities</span>
           </a>
-          <span class="pt-2 fs-5">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
+          <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
           <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3 frontend, and both the QR Code & Courier APIs)</i></span>
         </div>
       </div>
-      <div class="project-card-end-1"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2">
@@ -136,11 +135,10 @@
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 tower fw-bold">Tower</span>
           </a>
-          <span class="pt-2 fs-5">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
+          <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
           <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, a MongoDb Database, and a Vue 3 frontend)</i></span>
         </div>
       </div>
-      <div class="project-card-end-2"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
@@ -151,11 +149,10 @@
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 keeper">Keeper</span>
           </a>
-          <span class="pt-2 fs-5">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
+          <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
           <span class="pt-3"><i>(Full-Stack App made using a .NET (C#) backend, a mySQL database, and a Vue 3 frontend)</i></span>
         </div>
       </div>
-      <div class="project-card-end-3"></div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
@@ -166,13 +163,12 @@
           <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
             <span class="fs-5 moon-miner">Moon Miner</span>
           </a>
-          <span class="pt-2 fs-5">A simple and fun clicker game where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
+          <span class="pt-2 fs-5 project-card-end-4">A simple and fun clicker game where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
           <span class="pt-3">I am especially proud of my front-end work on this project, especially as it was very early on in my software development days, so it holds a special place in my heart.</span>
           <span class="pt-2"><i>(Front-End App using just HTML, JavaScript, CSS, and Bootstrap)</i></span>
         </div>
       </div>
     </div>
-    <div class="project-card-end-4"></div>
   </div>
   <div class="row bg-dark text-light text-center">
     <marquee class="w-100">
