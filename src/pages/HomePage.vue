@@ -112,7 +112,7 @@
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
-          <img src="/Gratuities-Logo.png" alt="" class="max">
+            <img src="/Gratuities-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
@@ -121,6 +121,22 @@
           </a>
           <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
           <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3 frontend, and both the QR Code & Courier APIs)</i></span>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
+      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+          <img src="/Who-Do-You-VooDoo-Logo.png" alt="" class="max">
+          </a>
+        </div>
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
+          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+            <span class="fs-5 voodoo">Who Do You VooDoo?</span>
+          </a>
+          <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with earning achievements through your clicking journey. Also features: A ton of custom art done by the love of my life ❤️ </span>
+          <span class="pt-2"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
         </div>
       </div>
     </div>
@@ -143,7 +159,9 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
           <img src="/KEEPER-full-logo.png" alt="" class="max">
+          </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
@@ -151,21 +169,6 @@
           </a>
           <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
           <span class="pt-3"><i>(Full-Stack App made using a .NET (C#) backend, a mySQL database, and a Vue 3 frontend)</i></span>
-        </div>
-      </div>
-    </div>
-    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <img src="/the-moon.png" alt="" class="max">
-        </div>
-        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://theonetruery.github.io/Moon-Miner/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 moon-miner">Moon Miner</span>
-          </a>
-          <span class="pt-2 fs-5 project-card-end-4">A simple and fun clicker game where you can click or tap on a moon, gain cheese, and buy upgrades to bump up your earnings!</span>
-          <span class="pt-3">I am especially proud of my front-end work on this project, especially as it was very early on in my software development days, so it holds a special place in my heart.</span>
-          <span class="pt-2"><i>(Front-End App using just HTML, JavaScript, CSS, and Bootstrap)</i></span>
         </div>
       </div>
     </div>
@@ -373,10 +376,11 @@ export default {
     text-shadow: 0px 0px 2px white;
   }
 
-  .moon-miner{
-    font-family: 'Righteous', cursive;
+  .voodoo{
+    font-family: 'Zeyada', cursive;
     color: white;
-    text-shadow: 1px 2px 0px orange;
+    text-shadow: 0 4px 0 rgb(82, 13, 109);
+    text-shadow: 0 0 4px white, 0 3px 0 rgb(64, 14, 87);
   }
   
 </style>
