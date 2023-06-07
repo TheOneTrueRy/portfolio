@@ -86,7 +86,7 @@
         <div class="col-12 col-md-8 bg-dark py-3 d-flex flex-column justify-content-start align-items-center elevation-2 mobile-h-50 my-overflow">
           <span class="fs-2 pt-1">Coding Experience</span>
           <span class="pt-4 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a 13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that enables me to go to work (on the code) every day excited and wanting more.</span>
-          <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both solo and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, NodeJs, Express, C#, .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn next in order to take my applications to the next level and give clients exactly what they dream of!</span>
+          <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both solo and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, Next.js, Node, Express, C#, .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn next in order to take my applications to the next level and give clients exactly what they dream of!</span>
         </div>
       </div>
     </div>
@@ -106,7 +106,7 @@
   <div class="row bg-dark">
     <div class="col-12 text-center d-flex flex-column pt-1 pb-5 px-4">
       <span class="fs-1">Projects:</span>
-      <span class="mt-1">(Due to it being a free site hosting service, projects with "onrender" links may take up to about 2 minutes to load)</span>
+      <span class="mt-1">(Due to them using a free site hosting service, projects with <i>italic titles</i> may take up to about 2 minutes to load)</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
@@ -117,7 +117,7 @@
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
-            <span class="fs-5 gratuities">Gratuities</span>
+            <span class="fs-5 gratuities"><i>Gratuities</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
           <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3 frontend, and both the QR Code & Courier APIs)</i></span>
@@ -143,13 +143,29 @@
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+          <img src="/Alice-Logo.png" alt="" class="max">
+          </a>
+        </div>
+        <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
+          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+            <span class="fs-5 alice">Alice Duff Portfolio (Commission)</span>
+          </a>
+          <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a quality site to potential employers.</span>
+          <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
+        </div>
+      </div>
+    </div>
+    <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
           <img src="/KEEPER-full-logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 keeper">Keeper</span>
+            <span class="fs-5 keeper"><i>Keeper</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
           <span class="pt-3"><i>(Full-Stack App made using a .NET (C#) backend, a mySQL database, and a Vue 3 frontend)</i></span>
@@ -165,7 +181,7 @@
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 tower fw-bold">Tower</span>
+            <span class="fs-5 tower fw-bold"><i>Tower</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
           <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, a MongoDb Database, and a Vue 3 frontend)</i></span>
@@ -380,6 +396,11 @@ export default {
     color: white;
     text-shadow: 0 4px 0 rgb(82, 13, 109);
     text-shadow: 0 0 4px white, 0 3px 0 rgb(64, 14, 87);
+  }
+
+  .alice{
+    font-family: 'Jost', sans-serif;
+    color: #6A50A1;
   }
   
 </style>
