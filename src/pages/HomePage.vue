@@ -3,7 +3,7 @@
   <div class="d-md-flex align-items-center justify-content-start bg-dark elevation-1 py-3 d-none">
     <div class="social">
       <div class="hover">
-        <a href="http://" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
+        <a href="https://github.com/TheOneTrueRy" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
           <span class="fs-5">
             My GitHub <i class="mdi mdi-github"></i>
           </span>
@@ -17,7 +17,7 @@
     </div>
     <div class="social">
       <div class="hover">
-        <a href="http://" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
+        <a href="https://www.linkedin.com/in/theonetruery" target="_blank" rel="noopener noreferrer" class="text-light underline ms-4">
           <span class="fs-5">
             LinkedIn <i class="mdi mdi-linkedin"></i>
           </span>
@@ -39,7 +39,7 @@
     <div class="col-12">
       <div class="social d-flex">
         <div class="hover">
-          <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."><span class="fs-5 underline text-light">My GitHub <i class="mdi mdi-github"></i></span></a>
+          <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile." ref="noopener noreferrer"><span class="fs-5 underline text-light">My GitHub <i class="mdi mdi-github"></i></span></a>
         </div>
       </div>
     </div>
@@ -109,8 +109,8 @@
       <span class="mt-1">(Due to them using a free site hosting service, projects with <i>italic titles</i> may take up to about 2 minutes to load)</span>
     </div>
     <div class="col-12 col-md-8 offset-md-2 pb-4 pt-1 px-5 d-flex flex-column">
-      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+      <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
           <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <img src="/Gratuities-Logo.png" alt="" class="max">
           </a>
@@ -125,15 +125,15 @@
       </div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link vh-25">
+      <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
+          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
           <img src="/Who-Do-You-VooDoo-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-4 voodoo">Who Do You VooDoo?</span>
+            <span class="fs-4 voodoo"><i>Who Do You VooDoo?</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with earning achievements through your clicking journey. Also features: A ton of custom art done by the love of my life. ❤️ </span>
           <span class="pt-2"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
@@ -141,15 +141,15 @@
       </div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
           <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
           <img src="/Alice-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
           <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 alice">Alice Duff Portfolio (Commission)</span>
+            <span class="fs-5 alice"><i>Alice Duff Portfolio</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a quality site to potential employers.</span>
           <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
@@ -157,8 +157,8 @@
       </div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
           <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
           <img src="/KEEPER-full-logo.png" alt="" class="max">
           </a>
@@ -173,7 +173,7 @@
       </div>
     </div>
     <div class="col-12 col-md-8 d-flex flex-column offset-md-2 pb-4 pt-1 px-5">
-      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2">
+      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center px-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
           <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer">
           <img src="/Tower-Logo.png" alt="" class="max">
@@ -192,7 +192,8 @@
   <div class="row bg-dark text-light text-center">
     <marquee class="w-100">
       <span class="fs-5">Made with Vue 3, SCSS, and GSAP.</span>
-      <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman</span>
+      <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman.</span>
+      <span class="fs-5 ms-2">(This is an ironic marquee I swear 😉)</span>
     </marquee>
   </div>
 </div>
