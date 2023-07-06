@@ -286,7 +286,7 @@ export default {
 
   .max{
     max-width: 100%;
-    max-height: 100%;
+    max-height: 25vh;
   }
 
   .mobile-h-50{
