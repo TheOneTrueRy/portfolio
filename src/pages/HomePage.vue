@@ -133,7 +133,7 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 pb-4 pt-1 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
+          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Gratuities website!">
             <img src="/Gratuities-Logo.png" alt="" class="max">
           </a>
         </div>
@@ -149,12 +149,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-          <img src="/Who-Do-You-VooDoo-Logo.png" alt="" class="max">
+          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Who Do You VooDoo? website!">
+            <img src="/Who-Do-You-VooDoo-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Who Do You VooDoo? website!">
             <span class="fs-4 voodoo">Who Do You VooDoo?</span>
           </a>
           <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with earning achievements through your clicking journey. Also features: A ton of custom art done by the love of my life. ❤️ </span>
@@ -165,12 +165,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-          <img src="/Alice-Logo.png" alt="" class="max">
+          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Alice Duff Portfolio website!">
+            <img src="/Alice-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
+          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Alice Duff Portfolio website!">
             <span class="fs-5 alice">Alice Duff Portfolio</span>
           </a>
           <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a quality site to potential employers.</span>
@@ -179,34 +179,34 @@
       </div>
     </div>
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
-      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-          <img src="/KEEPER-full-logo.png" alt="" class="max">
+      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center px-2">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
+          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Troop website!">
+            <img src="/TroopLogo.png" alt="Troop Logo" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 keeper"><i>Keeper</i></span>
+          <a href="https://ry-troop.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Troop website!">
+            <span class="fs-5 troop fw-bold"><i>Troop</i></span>
           </a>
-          <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
-          <span class="pt-3"><i>(Full-Stack App made using a .NET (C#) backend, a mySQL database, and a Vue 3 frontend)</i></span>
+          <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
+          <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL Database, and a React frontend)</i></span>
         </div>
       </div>
     </div>
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
-      <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center px-2">
-        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer">
-          <img src="/Tower-Logo.png" alt="" class="max">
+      <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
+          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" title="Visit the Keeper website!">
+            <img src="/KEEPER-full-logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link">
-            <span class="fs-5 tower fw-bold"><i>Tower</i></span>
+          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Keeper website!">
+            <span class="fs-5 keeper"><i>Keeper</i></span>
           </a>
-          <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
-          <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, a MongoDb Database, and a Vue 3 frontend)</i></span>
+          <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
+          <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend, a mySQL database, and a Vue 3 frontend)</i></span>
         </div>
       </div>
     </div>
@@ -313,7 +313,7 @@ export default {
 
   .max{
     max-width: 100%;
-    max-height: 25vh;
+    max-height: 22vh;
   }
 
   .mobile-h-50{
@@ -387,6 +387,11 @@ export default {
   .pointer{
     cursor: pointer;
   }
+
+  .troop-logo{
+    width: 120% !important;
+    max-width: 120% !important;
+  }
   
   @media screen and (min-width: 768px) {
     .fancy{
@@ -417,9 +422,10 @@ export default {
     color: #06d6a0;
   }
 
-  .tower{
-    font-family: 'Nunito', sans-serif;
-    color: #b22222;
+  .troop{
+    color: #4d0ba3;
+    text-shadow: 0px 0px 1px rgb(0, 0, 0);
+    letter-spacing: 1px;
   }
 
   .keeper{
