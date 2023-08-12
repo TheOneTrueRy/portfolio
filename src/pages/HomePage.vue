@@ -133,12 +133,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 pb-4 pt-1 d-flex flex-column">
       <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Gratuities website!">
+          <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Gratuities website!">
             <img src="/Gratuities-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://gratuities.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
+          <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Gratuities website!">
             <span class="fs-5 gratuities"><i>Gratuities</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given a tip for how good their work was? This Application made by a team of 5 developers provides a platform for service workers to sign up, be represented under a business if they choose, and receive direct tips & reviews based on their work.</span>
@@ -149,12 +149,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Who Do You VooDoo? website!">
+          <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer" class="px-1" title="Visit the Who Do You VooDoo? website!">
             <img src="/Who-Do-You-VooDoo-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://theonetruery.github.io/vooDoo/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Who Do You VooDoo? website!">
+          <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Who Do You VooDoo? website!">
             <span class="fs-4 voodoo">Who Do You VooDoo?</span>
           </a>
           <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with earning achievements through your clicking journey. Also features: A ton of custom art done by the love of my life. ❤️ </span>
@@ -165,12 +165,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Alice Duff Portfolio website!">
+          <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Alice Duff Portfolio website!">
             <img src="/Alice-Logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://zjduff.vercel.app/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Alice Duff Portfolio website!">
+          <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Alice Duff Portfolio website!">
             <span class="fs-5 alice">Alice Duff Portfolio</span>
           </a>
           <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a quality site to potential employers.</span>
@@ -181,12 +181,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center px-2">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25">
-          <a href="https://ry-tower.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Troop website!">
+          <a href="https://ry-troop.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-2" title="Visit the Troop website!">
             <img src="/TroopLogo.png" alt="Troop Logo" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://ry-troop.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Troop website!">
+          <a href="https://ry-troop.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Troop website!">
             <span class="fs-5 troop fw-bold"><i>Troop</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your tickets, and check out who else will be meeting you there!</span>
@@ -197,12 +197,12 @@
     <div class="col-12 col-md-10 offset-md-1 col-xl-8 offset-xl-2 px-5 px-md-0 d-flex flex-column pb-4 pt-1">
       <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
         <div class="col-12 col-md-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" title="Visit the Keeper website!">
+          <a href="https://ry-keeper.onrender.com/" target="_blank" rel="noopener noreferrer" title="Visit the Keeper website!">
             <img src="/KEEPER-full-logo.png" alt="" class="max">
           </a>
         </div>
         <div class="col-12 col-md-8 d-flex flex-column p-3 pt-2 pb-4">
-          <a href="https://ry-keeper.onrender.com/#/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Keeper website!">
+          <a href="https://ry-keeper.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link" title="Visit the Keeper website!">
             <span class="fs-5 keeper"><i>Keeper</i></span>
           </a>
           <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize your profile, view or post pictures, and save them to your favorite custom collections! View others keeps and vaults through their profiles, and expand on the details of each post with just a click!</span>
