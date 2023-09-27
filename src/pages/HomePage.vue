@@ -194,8 +194,6 @@
     <div class="row bg-dark">
       <div class="col-12 text-center d-flex flex-column pt-1 pb-5 px-4">
         <span class="fs-1">Projects:</span>
-        <span class="mt-1">(Due to them using a free site hosting service, projects with <i>italic titles</i> may take up
-          to about 2 minutes to load)</span>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
         <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
@@ -208,7 +206,7 @@
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
             <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
               title="Visit the Gratuities website!">
-              <span class="fs-5 gratuities"><i>Gratuities</i></span>
+              <span class="fs-5 gratuities">Gratuities</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given
               a tip for how good their work was? This Application made by a team of 5 developers provides a platform for
@@ -271,7 +269,7 @@
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
             <a href="https://ry-troop.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
               title="Visit the Troop website!">
-              <span class="fs-5 troop fw-bold"><i>Troop</i></span>
+              <span class="fs-5 troop fw-bold">Troop</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign
               up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your
@@ -292,7 +290,7 @@
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
             <a href="https://ry-keeper.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
               title="Visit the Keeper website!">
-              <span class="fs-5 keeper"><i>Keeper</i></span>
+              <span class="fs-5 keeper">Keeper</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize
               your profile, view or post pictures, and save them to your favorite custom collections! View others keeps
