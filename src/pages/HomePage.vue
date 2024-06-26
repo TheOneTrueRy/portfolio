@@ -122,8 +122,8 @@
       <div class="col-12 pb-1">
         <div class="social d-flex">
           <div class="hover">
-            <a href="mailto:OfficiallyRy@outlook.com"><span class="fs-5 underline text-light">OfficiallyRy@outlook.com <i
-                  class="mdi mdi-email"></i></span></a>
+            <a href="mailto:OfficiallyRy@outlook.com"><span class="fs-5 underline text-light">OfficiallyRy@outlook.com
+                <i class="mdi mdi-email"></i></span></a>
           </div>
         </div>
       </div>
@@ -153,16 +153,22 @@
             <span class="fs-2">Coding Experience</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a
               13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and
-              caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour span
-              of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that enables
+              caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour
+              span
+              of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that
+              enables
               me to go to work (on the code) every day excited and wanting more.</span>
-            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both solo
-              and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, Next.js, Node, Express, C#,
+            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both
+              solo
+              and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, Next.js, Node, Express,
+              C#,
               .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn
-              next in order to take my applications to the next level and give clients exactly what they dream of!</span>
+              next in order to take my applications to the next level and give clients exactly what they dream
+              of!</span>
             <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp As of September of 2023 I have dedicated enough time
               into learning and working with Salesforce that I proudly display various Salesforce Development &
-              Administration skills, along with my trailblazer profile, on my resume! I am now currently open to pursuing
+              Administration skills, along with my trailblazer profile, on my resume! I am now currently open to
+              pursuing
               and discussing "Software Developer" and "Salesforce Developer" positions!</span>
           </div>
         </div>
@@ -175,7 +181,8 @@
             <span class="fs-2">Personal Life</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology,
               utilizing a variety of software and gradually learning the ins and outs of them. With that has naturally
-              come more technical skills for me to even count, allowing me to have an affinity for computers. Eventually I
+              come more technical skills for me to even count, allowing me to have an affinity for computers. Eventually
+              I
               realized that software development was the natural next step, and haven't regretted it a day since!</span>
             <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Throughout that time, I have always
               proudly been a gamer. Spending my free time on numerous types of video games has given me more skills and
@@ -208,7 +215,8 @@
               title="Visit the Gratuities website!">
               <span class="fs-5 gratuities">Gratuities</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be given
+            <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be
+              given
               a tip for how good their work was? This Application made by a team of 5 developers provides a platform for
               service workers to sign up, be represented under a business if they choose, and receive direct tips &
               reviews based on their work.</span>
@@ -226,11 +234,12 @@
             </a>
           </div>
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
-            <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer" class="hover-link"
-              title="Visit the Who Do You VooDoo? website!">
+            <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer"
+              class="hover-link" title="Visit the Who Do You VooDoo? website!">
               <span class="fs-4 voodoo">Who Do You VooDoo?</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows you
+            <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows
+              you
               to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with
               earning achievements through your clicking journey. Also features: A ton of custom art done by the love of
               my life. ❤️ </span>
@@ -271,11 +280,12 @@
               title="Visit the Troop website!">
               <span class="fs-5 troop fw-bold">Troop</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to sign
+            <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to
+              sign
               up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your
               tickets, and check out who else will be meeting you there!</span>
-            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL Database, and a React
-                frontend)</i></span>
+            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL Database, and a
+                <b>React</b> frontend)</i></span>
           </div>
         </div>
       </div>
@@ -295,7 +305,7 @@
             <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize
               your profile, view or post pictures, and save them to your favorite custom collections! View others keeps
               and vaults through their profiles, and expand on the details of each post with just a click!</span>
-            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend, a mySQL database, and a Vue 3
+            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL database, and a Vue 3
                 frontend)</i></span>
           </div>
         </div>
@@ -304,8 +314,8 @@
     <div class="row bg-dark text-light text-center">
       <marquee class="w-100">
         <span class="fs-5">Made with Vue 3, SCSS, and GSAP.</span>
-        <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2023 Ryan Wittman.</span>
-        <span class="fs-5 ms-2">(This is an ironic marquee I swear 😉)</span>
+        <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2024 Ryan Wittman.</span>
+        <span class="fs-5 ms-2">(This is an ironic marquee tag I swear 😉)</span>
       </marquee>
     </div>
   </div>
