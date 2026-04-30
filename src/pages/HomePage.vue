@@ -172,7 +172,8 @@
               of my time on MMOs. My experience playing competitively on multiple shooters has also helped me develop
               elevated efficiency and attention to every little detail, even in high-stress environments.</span>
             <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp The personal and developer sides of my
-              life have blended at times recently as I created multiple mods across multiple of the video games I played
+              life have blended at times as I ended up passionately creating multiple mods across multiple of the video
+              games I played
               in my spare time. Multiple of these mods have gone on to have hundreds of thousands of downloads and some
               of the highest endorsements from the community and users who appreciated both the content and the
               dedication I personally had to the users of the mod and any of their feedback.</span>
