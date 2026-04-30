@@ -14,16 +14,6 @@
           </div>
         </div>
         <div class="social">
-          <div class="hover">
-            <a href="https://www.salesforce.com/trailblazer/ryanwittman" target="_blank" rel="noopener noreferrer"
-              class="text-light underline ms-3">
-              <span class="fs-5">
-                Trailblazer <i class="mdi mdi-salesforce"></i>
-              </span>
-            </a>
-          </div>
-        </div>
-        <div class="social">
           <span class="fs-5 text-light ms-3">
             Contact Me:
           </span>
@@ -75,16 +65,6 @@
             <a href="https://github.com/TheOneTrueRy" target="_blank" title="Visit my GitHub profile."
               ref="noopener noreferrer"><span class="fs-5 underline text-light">GitHub <i
                   class="mdi d-none d-sm-inline mdi-github"></i></span></a>
-          </div>
-        </div>
-        <div class="social">
-          <div class="hover">
-            <a href="https://www.salesforce.com/trailblazer/ryanwittman" target="_blank" rel="noopener noreferrer"
-              class="text-light underline">
-              <span class="fs-5">
-                Trailblazer <i class="mdi d-none d-sm-inline mdi-salesforce"></i>
-              </span>
-            </a>
           </div>
         </div>
         <div class="social">
@@ -165,11 +145,13 @@
               .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn
               next in order to take my applications to the next level and give clients exactly what they dream
               of!</span>
-            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp As of September of 2023 I have dedicated enough time
-              into learning and working with Salesforce that I proudly display various Salesforce Development &
-              Administration skills, along with my trailblazer profile, on my resume! I am now currently open to
-              pursuing
-              and discussing "Software Developer" and "Salesforce Developer" positions!</span>
+            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp From September 2024 to April 2026 I utilized all of my
+              skills along with constantly learning new ones as a Full-Time App Developer for Pennant Services, a major
+              Healthcare company spanning the whole USA. I proudly worked within both the front-end and back-end of the
+              team constantly contributing to and managing the development and design of many major projects within the
+              company simultaneously. Both my management and my fellow team-members consistently praised me not just for
+              my notably high-quality work, but also the cohesion and dependability I personally brought to the
+              team.</span>
           </div>
         </div>
       </div>
@@ -184,11 +166,16 @@
               come more technical skills for me to even count, allowing me to have an affinity for computers. Eventually
               I
               realized that software development was the natural next step, and haven't regretted it a day since!</span>
-            <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Throughout that time, I have always
+            <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Throughout that time, I have always
               proudly been a gamer. Spending my free time on numerous types of video games has given me more skills and
               advantages, such as being able to naturally meld, socialize, and manage projects full of people due to all
               of my time on MMOs. My experience playing competitively on multiple shooters has also helped me develop
               elevated efficiency and attention to every little detail, even in high-stress environments.</span>
+            <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp The personal and developer sides of my
+              life have blended at times recently as I created multiple mods across multiple of the video games I played
+              in my spare time. Multiple of these mods have gone on to have hundreds of thousands of downloads and some
+              of the highest endorsements from the community and users who appreciated both the content and the
+              dedication I personally had to the users of the mod and any of their feedback.</span>
           </div>
           <div class="col-12 col-lg-4 order-lg-2 order-1 g-0 elevation-2 mobile-h-50">
             <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt=""
@@ -264,49 +251,6 @@
               reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a
               quality site to potential employers.</span>
             <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center px-2">
-          <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25">
-            <a href="https://ry-troop.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-2"
-              title="Visit the Troop website!">
-              <img src="/TroopLogo.png" alt="Troop Logo" class="max">
-            </a>
-          </div>
-          <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
-            <a href="https://ry-troop.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
-              title="Visit the Troop website!">
-              <span class="fs-5 troop fw-bold">Troop</span>
-            </a>
-            <span class="pt-2 fs-5 project-card-end-2">Ticket scalpers be gone! This web application allows users to
-              sign
-              up and view all kinds of events posted in order to reserve their spot. Create events yourself, manage your
-              tickets, and check out who else will be meeting you there!</span>
-            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL Database, and a
-                <b>React</b> frontend)</i></span>
-          </div>
-        </div>
-      </div>
-      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
-          <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-            <a href="https://ry-keeper.onrender.com/" target="_blank" rel="noopener noreferrer"
-              title="Visit the Keeper website!">
-              <img src="/KEEPER-full-logo.png" alt="" class="max">
-            </a>
-          </div>
-          <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
-            <a href="https://ry-keeper.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
-              title="Visit the Keeper website!">
-              <span class="fs-5 keeper">Keeper</span>
-            </a>
-            <span class="pt-2 fs-5 project-card-end-3">A Pinterest-like full-stack website that allows you to customize
-              your profile, view or post pictures, and save them to your favorite custom collections! View others keeps
-              and vaults through their profiles, and expand on the details of each post with just a click!</span>
-            <span class="pt-3"><i>(Full-Stack App made using a .NET C# backend and API, a MySQL database, and a Vue 3
-                frontend)</i></span>
           </div>
         </div>
       </div>
