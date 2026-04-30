@@ -113,7 +113,7 @@
       <div class="col-12 col-lg-6 d-flex align-items-center justify-content-center">
         <div class="p-4 rounded d-flex flex-column">
           <span class="fancy">Ryan Wittman</span>
-          <span class="subtitle text-light text-shadow">Designer & Developer</span>
+          <span class="subtitle text-light text-shadow">Developer & Designer</span>
         </div>
       </div>
       <div class="col-6 g-0 d-none d-lg-flex justify-content-end align-items-end h-100">
@@ -123,13 +123,12 @@
     <div class="row">
       <!-- SECTION Coding Experience -->
       <div class="col-12">
-        <div class="row right-to-left vh-37 border mobile-card">
-          <div class="col-12 col-lg-4 g-0 elevation-2 mobile-h-50">
+        <div class="row right-to-left vh-39 border mobile-card">
+          <div class="col-12 col-lg-4 g-0 elevation-2 vh-39 mobile-h-50">
             <img src="https://media.timeout.com/images/105207533/image.jpg"
               alt="Stock Image of Computer-based Office Space" class="side-image">
           </div>
-          <div
-            class="col-12 col-lg-8 bg-dark py-3 d-flex flex-column align-items-center elevation-2 mobile-h-50 my-overflow">
+          <div class="col-12 col-lg-8 vh-39 bg-dark py-3 d-flex flex-column align-items-center elevation-2 mobile-h-50">
             <span class="fs-2">Coding Experience</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a
               13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and
@@ -157,9 +156,9 @@
       </div>
       <!-- SECTION Personal Life -->
       <div class="col-12">
-        <div class="row left-to-right border vh-37 mobile-card">
+        <div class="row left-to-right border vh-39 mobile-card">
           <div
-            class="col-12 col-lg-8 order-lg-1 order-2 bg-dark py-3 d-flex flex-column justify-content-around align-items-center elevation-2 mobile-h-50 my-overflow">
+            class="col-12 col-lg-8 vh-39 order-lg-1 order-2 bg-dark py-3 d-flex flex-column justify-content-around align-items-center elevation-2 mobile-h-50 my-overflow">
             <span class="fs-2">Personal Life</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology,
               utilizing a variety of software and gradually learning the ins and outs of them. With that has naturally
@@ -178,7 +177,7 @@
               of the highest endorsements from the community and users who appreciated both the content and the
               dedication I personally had to the users of the mod and any of their feedback.</span>
           </div>
-          <div class="col-12 col-lg-4 order-lg-2 order-1 g-0 elevation-2 mobile-h-50">
+          <div class="col-12 col-lg-4 vh-39 order-lg-2 order-1 g-0 elevation-2 mobile-h-50">
             <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt=""
               class="side-image">
           </div>
@@ -191,7 +190,31 @@
         <span class="fs-1">Projects:</span>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
-        <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-2 border bg-gradient bg-dark mb-2 align-items-center">
+          <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
+            <a href="https://EasilySWADE.com/" target="_blank" rel="noopener noreferrer" class="px-1"
+              title="Visit the EasilySWADE website!">
+              <img src="https://udixydcfgbzwwnvpwubp.supabase.co/storage/v1/object/public/sandbox/God/EasilySwade.png"
+                alt="" class="max">
+            </a>
+          </div>
+          <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
+            <a href="https://EasilySWADE.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
+              title="Visit the EasilySWADE website!">
+              <span class="fs-5 swade">EasilySWADE</span>
+            </a>
+            <span class="pt-2 fs-5 project-card-end-1">The EasilySWADE project is made to be a companion app for those
+              playing the "Savage Worlds" TTRPG by Pinnacle Entertainment, often referred to as SWADE by it's community.
+              My fiancee brought the idea to me as we set up our own campaign with friends and found there not being any
+              "D&D Beyond"esque companion for this specific, beloved TTRPG. This is currently my main project and
+              continues to be updated as frequently as possible.</span>
+            <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, and a Vue 3
+                frontend)</i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
+        <div class="row elevation-2 rounded project-card-2 border bg-gradient bg-dark mb-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the Gratuities website!">
@@ -203,7 +226,7 @@
               title="Visit the Gratuities website!">
               <span class="fs-5 gratuities">Gratuities</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-1">Ever thought about those at a business that normally can't be
+            <span class="pt-2 fs-5 project-card-end-2">Ever thought about those at a business that normally can't be
               given
               a tip for how good their work was? This Application made by a team of 5 developers provides a platform for
               service workers to sign up, be represented under a business if they choose, and receive direct tips &
@@ -214,7 +237,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the Who Do You VooDoo? website!">
@@ -226,7 +249,7 @@
               class="hover-link" title="Visit the Who Do You VooDoo? website!">
               <span class="fs-4 voodoo">Who Do You VooDoo?</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows
+            <span class="pt-2 fs-5 project-card-end-3">An expansive and customizable webpage clicker game that allows
               you
               to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with
               earning achievements through your clicking journey. Also features: A ton of custom art done by the love of
@@ -236,7 +259,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="px-2"
               title="Visit the Alice Duff Portfolio website!">
@@ -248,10 +271,35 @@
               title="Visit the Alice Duff Portfolio website!">
               <span class="fs-5 alice">Alice Duff Portfolio</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who
+            <span class="pt-2 fs-5 project-card-end-4">Professional portfolio site made for a client (Alice Duff) who
               reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a
               quality site to potential employers.</span>
             <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
+        <div class="row elevation-2 rounded project-card-5 bg-dark bg-gradient border my-2 align-items-center">
+          <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
+            <a href="https://www.nexusmods.com/oblivionremastered/mods/567" target="_blank" rel="noopener noreferrer"
+              class="px-2" title="Visit the Auto Upgrade Leveled Items modpage!">
+              <img src="/AULI-Logo.png" alt="" class="max">
+            </a>
+          </div>
+          <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
+            <a href="https://www.nexusmods.com/oblivionremastered/mods/567" target="_blank" rel="noopener noreferrer"
+              class="hover-link" title="Visit the Auto Upgrade Leveled Items modpage!">
+              <span class="fs-5 auli">Auto Upgrade Leveled Items</span>
+            </a>
+            <span class="pt-2 fs-5 project-card-end-5">A mod made for the video game The Elder Scrolls IV: Oblivion
+              Remastered. People, including
+              myself and friends, had need of a mod with AULI's utility so I taught myself completely from scratch how
+              to use the
+              game's modding tools and papyrus scripting just to fixate for 10 hours straight and create
+              the first version of AULI overnight. AULI went on to be one of the most downloaded and user-endorsed mods
+              of all time for the game, providing me with a chance to provide and respond to a passionately
+              user-oriented service & live product.</span>
+            <span class="pt-3"><i>(In-Game mod made using the Elder Scrolls/Oblivion Creation Kit tools)</i></span>
           </div>
         </div>
       </div>
@@ -259,7 +307,7 @@
     <div class="row bg-dark text-light text-center">
       <marquee class="w-100">
         <span class="fs-5">Made with Vue 3, SCSS, and GSAP.</span>
-        <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2024 Ryan Wittman.</span>
+        <span class="fs-5 ms-2"><i class="mdi mdi-copyright"></i> 2026 Ryan Wittman.</span>
         <span class="fs-5 ms-2">(This is an ironic marquee tag I swear 😉)</span>
       </marquee>
     </div>
@@ -417,16 +465,8 @@ export default {
   object-fit: cover;
 }
 
-.vh-37 {
-  min-height: 37vh;
-}
-
-.my-overflow {
-  overflow-y: scroll;
-}
-
-.my-overflow::-webkit-scrollbar {
-  display: none;
+.vh-39 {
+  min-height: 39vh;
 }
 
 .pointer {
@@ -467,16 +507,20 @@ export default {
   color: #06d6a0;
 }
 
-.troop {
-  color: white;
-  text-shadow: 2px 1px 0px #5d2cb0;
-  letter-spacing: 1px;
+.swade {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: #da0000;
+  font-weight: bold;
 }
 
-.keeper {
-  font-family: 'Bungee', cursive;
-  color: #48005f;
-  text-shadow: 0px 0px 2px white;
+@font-face {
+  font-family: 'oblivion';
+  src: url('src/assets/scss/fonts/oblivion-font.ttf') format('truetype');
+}
+
+.auli {
+  font-family: 'oblivion';
+  color: #ffbb0a;
 }
 
 .voodoo {
