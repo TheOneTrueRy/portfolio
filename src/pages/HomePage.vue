@@ -124,11 +124,11 @@
       <!-- SECTION Coding Experience -->
       <div class="col-12">
         <div class="row right-to-left vh-39 border mobile-card">
-          <div class="col-12 col-lg-4 g-0 elevation-2 vh-39 mobile-h-50">
+          <div class="col-12 col-lg-4 g-0 elevation-2 vh-39">
             <img src="https://media.timeout.com/images/105207533/image.jpg"
               alt="Stock Image of Computer-based Office Space" class="side-image">
           </div>
-          <div class="col-12 col-lg-8 vh-39 bg-dark py-3 d-flex flex-column align-items-center elevation-2 mobile-h-50">
+          <div class="col-12 col-lg-8 vh-39 bg-dark py-3 d-flex flex-column align-items-center elevation-2">
             <span class="fs-2">Coding Experience</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a
               13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and
@@ -158,7 +158,7 @@
       <div class="col-12">
         <div class="row left-to-right border vh-39 mobile-card">
           <div
-            class="col-12 col-lg-8 vh-39 order-lg-1 order-2 bg-dark py-3 d-flex flex-column justify-content-around align-items-center elevation-2 mobile-h-50 my-overflow">
+            class="col-12 col-lg-8 vh-39 order-lg-1 order-2 bg-dark py-3 d-flex flex-column justify-content-around align-items-center elevation-2">
             <span class="fs-2">Personal Life</span>
             <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology,
               utilizing a variety of software and gradually learning the ins and outs of them. With that has naturally
@@ -177,7 +177,7 @@
               of the highest endorsements from the community and users who appreciated both the content and the
               dedication I personally had to the users of the mod and any of their feedback.</span>
           </div>
-          <div class="col-12 col-lg-4 vh-39 order-lg-2 order-1 g-0 elevation-2 mobile-h-50">
+          <div class="col-12 col-lg-4 vh-39 order-lg-2 order-1 g-0 elevation-2">
             <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt=""
               class="side-image">
           </div>
@@ -190,7 +190,7 @@
         <span class="fs-1">Projects:</span>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
-        <div class="row elevation-2 rounded project-card-2 border bg-gradient bg-dark mb-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://EasilySWADE.com/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the EasilySWADE website!">
@@ -374,6 +374,12 @@ export default {
       })
       gsap.from(".project-card-4", {
         scrollTrigger: ".project-card-end-4",
+        opacity: 0,
+        duration: 1.1,
+        scale: 0.2,
+      })
+      gsap.from(".project-card-5", {
+        scrollTrigger: ".project-card-end-5",
         opacity: 0,
         duration: 1.1,
         scale: 0.2,
