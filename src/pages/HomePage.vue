@@ -171,9 +171,12 @@
               of my time on MMOs. My experience playing competitively on multiple shooters has also helped me develop
               elevated efficiency and attention to every little detail, even in high-stress environments.</span>
             <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp The personal and developer sides of my
-              life have blended at times as I ended up passionately creating multiple mods across multiple of the video
+              life have blended at times as I ended up both using my skills to create web-based games and creating
+              multiple mods across some of the video
               games I played
-              in my spare time. Multiple of these mods have gone on to have hundreds of thousands of downloads and some
+              in my spare time, multiple of which are featured in my projects below. Multiple of the mods I developed
+              have gone on
+              to have hundreds of thousands of downloads and some
               of the highest endorsements from the community and users who appreciated both the content and the
               dedication I personally had to the users of the mod and any of their feedback.</span>
           </div>
@@ -213,26 +216,23 @@
           </div>
         </div>
       </div>
-      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
-        <div class="row elevation-2 rounded project-card-2 border bg-gradient bg-dark mb-2 align-items-center">
+      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
+        <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-            <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-1"
-              title="Visit the Gratuities website!">
-              <img src="/Gratuities-Logo.png" alt="" class="max">
+            <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="px-2"
+              title="Visit the Alice Duff Portfolio website!">
+              <img src="/Alice-Logo.png" alt="" class="max">
             </a>
           </div>
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
-            <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
-              title="Visit the Gratuities website!">
-              <span class="fs-5 gratuities">Gratuities</span>
+            <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="hover-link"
+              title="Visit the Alice Duff Portfolio website!">
+              <span class="fs-5 alice">Alice Duff Portfolio</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-2">Ever thought about those at a business that normally can't be
-              given
-              a tip for how good their work was? This Application made by a team of 5 developers provides a platform for
-              service workers to sign up, be represented under a business if they choose, and receive direct tips &
-              reviews based on their work.</span>
-            <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3
-                frontend, and both the QR Code & Courier APIs)</i></span>
+            <span class="pt-2 fs-5 project-card-end-2">Professional portfolio site made for a client (Alice Duff) who
+              reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a
+              quality site to potential employers.</span>
+            <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework)</i></span>
           </div>
         </div>
       </div>
@@ -254,27 +254,32 @@
               to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with
               earning achievements through your clicking journey. Also features: A ton of custom art done by the love of
               my life. ❤️ </span>
-            <span class="pt-2"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
+            <span class="pt-2"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework)</i></span>
           </div>
         </div>
       </div>
-      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
+      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
+        <div class="row elevation-2 rounded project-card-4 border bg-gradient bg-dark mb-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
-            <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="px-2"
-              title="Visit the Alice Duff Portfolio website!">
-              <img src="/Alice-Logo.png" alt="" class="max">
+            <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-1"
+              title="Visit the Gratuities website!">
+              <img src="/Gratuities-Logo.png" alt="" class="max">
             </a>
           </div>
           <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
-            <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="hover-link"
-              title="Visit the Alice Duff Portfolio website!">
-              <span class="fs-5 alice">Alice Duff Portfolio</span>
+            <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="hover-link"
+              title="Visit the Gratuities website!">
+              <span class="fs-5 gratuities">Gratuities</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-4">Professional portfolio site made for a client (Alice Duff) who
-              reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a
-              quality site to potential employers.</span>
-            <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework.)</i></span>
+            <span class="pt-2 fs-5 project-card-end-4">Ever thought about those at a business that normally can't be
+              given
+              a tip for how good their work was? This <i>Concept</i> Application made by a team of 5 developers during
+              their
+              time at Boise CodeWorks provides a platform for
+              service workers to sign up, be represented under a business if they choose, and receive direct tips &
+              reviews based on their work & service.</span>
+            <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3
+                frontend, and both the QR Code & Courier APIs)</i></span>
           </div>
         </div>
       </div>
