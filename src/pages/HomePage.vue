@@ -130,27 +130,23 @@
           </div>
           <div class="col-12 col-lg-8 vh-39 bg-dark py-3 d-flex flex-column align-items-center elevation-2">
             <span class="fs-2">Coding Experience</span>
-            <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey, attending a
-              13-Week long bootcamp in Boise, Idaho called <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and
-              caring instructors taught and helped me in the ways of full-stack software development over a 500+ hour
-              span
-              of time. I'll be forever grateful for such a great change in my life! I now have a deep passion that
-              enables
-              me to go to work (on the code) every day excited and wanting more.</span>
-            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp I now have experience making over 40 projects both
-              solo
-              and in team settings. So far I've utilized HTML, (S)CSS, JavaScript, Vue, React, Next.js, Node, Express,
-              C#,
-              .NET, and Scrum/Agile methods when making my products! I am constantly on the look out for what to learn
-              next in order to take my applications to the next level and give clients exactly what they dream
-              of!</span>
+            <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp In January of 2023 I started my coding journey in Boise,
+              Idaho through a school named <i>Boise CodeWorks</i>. Deeply knowledgeable, talented, and caring
+              instructors taught me full-stack software development via hands-on practice. During my time there, I had
+              created 40 coding projects both in solo and team settings, with over 500 hours of work. I will forever be
+              grateful for such an incredible opportunity, as I now have a deep passion that enables me to go to work on
+              my code every day, excited and wanting more.</span>
             <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp From September 2024 to April 2026 I utilized all of my
-              skills along with constantly learning new ones as a Full-Time App Developer for Pennant Services, a major
-              Healthcare company spanning the whole USA. I proudly worked within both the front-end and back-end of the
-              team constantly contributing to and managing the development and design of many major projects within the
-              company simultaneously. Both my management and my fellow team-members consistently praised me not just for
-              my notably high-quality work, but also the cohesion and dependability I personally brought to the
-              team.</span>
+              existing skills, along with constantly learning new ones as a Full-Time App Developer for Pennant
+              Services, a major Healthcare company spanning the whole of the USA. I proudly worked within both the
+              front-end and back-end of the team, constantly contributing to and managing the development and design of
+              many major projects within the company simultaneously. Both my management and my fellow team-members
+              consistently praised me not only for my notably high-quality work, but also the cohesion and dependability
+              that I personally brought to the team.</span>
+            <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Accounting for my personal and professional products,
+              I have experience working with the following: JavaScript, Node, Express, Vue 3, React, MongoDb, Mongoose,
+              mySQL, PostgreSQL, Snowflake C# & .NET, AWS, HTML, CSS, Bootstrap 5, UX & UI Research/Design, Figma, and
+              Retool App Development</span>
           </div>
         </div>
       </div>
@@ -160,25 +156,23 @@
           <div
             class="col-12 col-lg-8 vh-39 order-lg-1 order-2 bg-dark py-3 d-flex flex-column justify-content-around align-items-center elevation-2">
             <span class="fs-2">Personal Life</span>
-            <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology,
-              utilizing a variety of software and gradually learning the ins and outs of them. With that has naturally
-              come more technical skills for me to even count, allowing me to have an affinity for computers. Eventually
-              I
-              realized that software development was the natural next step, and haven't regretted it a day since!</span>
-            <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Throughout that time, I have always
-              proudly been a gamer. Spending my free time on numerous types of video games has given me more skills and
-              advantages, such as being able to naturally meld, socialize, and manage projects full of people due to all
-              of my time on MMOs. My experience playing competitively on multiple shooters has also helped me develop
-              elevated efficiency and attention to every little detail, even in high-stress environments.</span>
+            <span class="pt-3 my-px">&nbsp &nbsp &nbsp &nbsp I've spent nearly my entire life working with technology
+              out of a natural curiosity, utilizing different hardware and software until I gradually learned the ins
+              and outs of them. This has has lead me to acquiring more technical skills than I can count, and it is now
+              fair to say I have an affinity for computers. I eventually realized that software development was the next
+              big step for me, and haven't regretted it a day since!</span>
+            <span class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp A lot of my passion for tech has also manifested into
+              a love of gaming, spending much of my free time on numerous types of video games. Surprisingly these games
+              have given me many soft skills, such as being able to naturally meld, socialize, and manage projects full
+              of people due to all of my time on MMOs. My experience playing competitively on multiple shooters has also
+              helped me develop elevated efficiency and attention to every little detail, even in high-stress
+              environments.</span>
             <span id="projects" class="pt-3 my-px pb-2">&nbsp &nbsp &nbsp &nbsp The personal and developer sides of my
-              life have blended at times as I ended up both using my skills to create web-based games and creating
-              multiple mods across some of the video
-              games I played
-              in my spare time, multiple of which are featured in my projects below. Multiple of the mods I developed
-              have gone on
-              to have hundreds of thousands of downloads and some
-              of the highest endorsements from the community and users who appreciated both the content and the
-              dedication I personally had to the users of the mod and any of their feedback.</span>
+              life have also blended at times. I ended up using my combined skills to create my own web-based games and
+              mods across some of the video games I've played, which are featured in my projects below. Multiple of the
+              mods I developed have gone on to have hundreds of thousands of downloads, also having some of the highest
+              endorsements from the community and users who appreciated both the content and the dedication that I
+              personally had to their feedback.</span>
           </div>
           <div class="col-12 col-lg-4 vh-39 order-lg-2 order-1 g-0 elevation-2">
             <img src="https://static2.srcdn.com/wordpress/wp-content/uploads/2020/10/gamingpc3.jpg" alt=""
@@ -207,10 +201,10 @@
               <span class="fs-5 swade">EasilySWADE</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-1">The EasilySWADE project is made to be a companion app for those
-              playing the "Savage Worlds" TTRPG by Pinnacle Entertainment, often referred to as SWADE by it's community.
-              My fiancee brought the idea to me as we set up our own campaign with friends and found there not being any
-              "D&D Beyond"esque companion for this specific, beloved TTRPG. This is currently my main project and
-              continues to be updated as frequently as possible.</span>
+              playing the "Savage Worlds" TTRPG by Pinnacle Entertainment, often referred to as SWADE. The site was set
+              up to host a campaign with my fiancee and friends after being unable to find any "D&D Beyond"-esque
+              website for this specific, beloved TTRPG. EasilySWADE is a current, ongoing project of mine that continues
+              to be updated until it is ready to host the Savage Worlds community.</span>
             <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, and a Vue 3
                 frontend)</i></span>
           </div>
@@ -250,10 +244,9 @@
               <span class="fs-4 voodoo">Who Do You VooDoo?</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-3">An expansive and customizable webpage clicker game that allows
-              you
-              to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, along with
-              earning achievements through your clicking journey. Also features: A ton of custom art done by the love of
-              my life. ❤️ </span>
+              you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, and
+              achievements that are earned through your clicking journey! This game also features custom art by the love
+              of my life. ❤️ </span>
             <span class="pt-2"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework)</i></span>
           </div>
         </div>
@@ -271,13 +264,10 @@
               title="Visit the Gratuities website!">
               <span class="fs-5 gratuities">Gratuities</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-4">Ever thought about those at a business that normally can't be
-              given
-              a tip for how good their work was? This <i>Concept</i> Application made by a team of 5 developers during
-              their
-              time at Boise CodeWorks provides a platform for
-              service workers to sign up, be represented under a business if they choose, and receive direct tips &
-              reviews based on their work & service.</span>
+            <span class="pt-2 fs-5 project-card-end-4">Ever thought about employees at a business that aren't normally
+              eligible for tips, no matter how good their work was? This <i>Concept</i> Application was made by a team
+              of 5 developers provides a platform for service workers to sign up, represent themselves under a business
+              if they choose, and receive direct tips & reviews based on their service.</span>
             <span class="pt-3"><i>(Full-Stack App made using a Node.js backend and API, MongoDb database, a Vue 3
                 frontend, and both the QR Code & Courier APIs)</i></span>
           </div>
@@ -297,13 +287,11 @@
               <span class="fs-5 auli">Auto Upgrade Leveled Items</span>
             </a>
             <span class="pt-2 fs-5 project-card-end-5">A mod made for the video game The Elder Scrolls IV: Oblivion
-              Remastered. People, including
-              myself and friends, had need of a mod with AULI's utility so I taught myself completely from scratch how
-              to use the
-              game's modding tools and papyrus scripting just to fixate for 10 hours straight and create
-              the first version of AULI overnight. AULI went on to be one of the most downloaded and user-endorsed mods
-              of all time for the game, providing me with a chance to provide and respond to a passionately
-              user-oriented service & live product.</span>
+              Remastered. People (including myself) had need of a mod with AULI's utility, so I taught myself how to use
+              the game's modding tools and papyrus scripting completely from scratch. I fixated on the project for 10
+              hours straight and created the first version of AULI overnight. AULI went on to be one of the most
+              downloaded and user-endorsed mods of all time for the game, providing me with a chance to provide and
+              respond to a passionately user-oriented service & live product.</span>
             <span class="pt-3"><i>(In-Game mod made using the Elder Scrolls/Oblivion Creation Kit tools)</i></span>
           </div>
         </div>
