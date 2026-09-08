@@ -41,7 +41,7 @@
       <div class="me-3 d-flex">
         <div class="social me-3">
           <div class="hover">
-            <a href="/RyanWittmanResumePDF.pdf" class="text-light pointer underline" download>
+            <a href="/RyanWittmanResumePDFv.pdf" class="text-light pointer underline" download>
               <span class="fs-5">
                 Resume <i class="mdi mdi-download"></i>
               </span>
@@ -145,8 +145,9 @@
               that I personally brought to the team.</span>
             <span class="pt-2 my-px pb-2">&nbsp &nbsp &nbsp &nbsp Accounting for my personal and professional products,
               I have experience working with the following: JavaScript, Node, Express, Vue 3, React, MongoDb, Mongoose,
-              mySQL, PostgreSQL, Snowflake C# & .NET, AWS, HTML, CSS, Bootstrap 5, UX & UI Research/Design, Figma, and
-              Retool App Development</span>
+              Supabase,
+              mySQL, PostgreSQL, Snowflake, C# & .NET, AWS, HTML, SCSS, Bootstrap 5, UX & UI Research/Design, Figma,
+              Retool App Development, and Claude Code.</span>
           </div>
         </div>
       </div>
@@ -189,6 +190,30 @@
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
         <div class="row elevation-2 rounded project-card-1 border bg-gradient bg-dark mb-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
+            <a href="https://PawketPets.net/" target="_blank" rel="noopener noreferrer" class="px-1"
+              title="Visit the Pawket Pets website!">
+              <img src="/PawketPets-Logo.png" alt="Pawket Pets Logo" class="max">
+            </a>
+          </div>
+          <div class="col-12 col-lg-8 d-flex flex-column p-3 pt-2 pb-4">
+            <a href="https://PawketPets.net/" target="_blank" rel="noopener noreferrer" class="hover-link"
+              title="Visit the Pawket Pets website!">
+              <span class="fs-5 pawket">PawketPetsVT</span>
+            </a>
+            <span class="pt-2 fs-5 project-card-end-1">PawketPetsVT is an extensive fan-interactive web-game inspired by
+              the pet games of the early 2000s, such as NeoPets or Webkinz. Users can collect, raise, care for, and
+              battle with little virtual versions of their favorite streamers. Includes twitch integration and overlays
+              for users to progress on the site by contributing to the streams they enjoy directly and Discord
+              integration for live-updates from the game within servers.</span>
+            <span class="pt-3"><i>(Full-Stack Online Web-Game made using a Node.js, a Vue 3
+                frontend, a Supabase database and API, and the only project of mine to use Clause Code
+                assistance.)</i></span>
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
+        <div class="row elevation-2 rounded project-card-2 border bg-gradient bg-dark mb-2 align-items-center">
+          <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://EasilySWADE.com/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the EasilySWADE website!">
               <img src="https://udixydcfgbzwwnvpwubp.supabase.co/storage/v1/object/public/sandbox/God/EasilySwade.png"
@@ -200,7 +225,7 @@
               title="Visit the EasilySWADE website!">
               <span class="fs-5 swade">EasilySWADE</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-1">The EasilySWADE project is made to be a companion app for those
+            <span class="pt-2 fs-5 project-card-end-2">The EasilySWADE project is made to be a companion app for those
               playing the "Savage Worlds" TTRPG by Pinnacle Entertainment, often referred to as SWADE. The site was set
               up to host a campaign with my fiancee and friends after being unable to find any "D&D Beyond"-esque
               website for this specific, beloved TTRPG. EasilySWADE is a current, ongoing project of mine that continues
@@ -211,7 +236,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-2 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://zjduff.vercel.app/" target="_blank" rel="noopener noreferrer" class="px-2"
               title="Visit the Alice Duff Portfolio website!">
@@ -223,7 +248,7 @@
               title="Visit the Alice Duff Portfolio website!">
               <span class="fs-5 alice">Alice Duff Portfolio</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-2">Professional portfolio site made for a client (Alice Duff) who
+            <span class="pt-2 fs-5 project-card-end-3">Professional portfolio site made for a client (Alice Duff) who
               reached out to me wanting to show off their Special Effects Makeup and Assistant Director Film work on a
               quality site to potential employers.</span>
             <span class="pt-3"><i>(Front-End App using JavaScript, SCSS, HTML5, and the Vue 3 Framework)</i></span>
@@ -231,7 +256,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-3 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-4 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://theonetruery.github.io/vooDoo/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the Who Do You VooDoo? website!">
@@ -243,7 +268,7 @@
               class="hover-link" title="Visit the Who Do You VooDoo? website!">
               <span class="fs-4 voodoo">Who Do You VooDoo?</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-3">An expansive and customizable webpage clicker game that allows
+            <span class="pt-2 fs-5 project-card-end-4">An expansive and customizable webpage clicker game that allows
               you to earn a currency and buy upgrades, temporary boosts, customization for what you're clicking, and
               achievements that are earned through your clicking journey! This game also features custom art by the love
               of my life. ❤️ </span>
@@ -252,7 +277,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 pb-4 pt-1 d-flex flex-column">
-        <div class="row elevation-2 rounded project-card-4 border bg-gradient bg-dark mb-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-5 border bg-gradient bg-dark mb-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://gratuities.onrender.com/" target="_blank" rel="noopener noreferrer" class="px-1"
               title="Visit the Gratuities website!">
@@ -264,7 +289,7 @@
               title="Visit the Gratuities website!">
               <span class="fs-5 gratuities">Gratuities</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-4">Ever thought about employees at a business that aren't normally
+            <span class="pt-2 fs-5 project-card-end-5">Ever thought about employees at a business that aren't normally
               eligible for tips, no matter how good their work was? This <i>Concept</i> Application was made by a team
               of 5 developers provides a platform for service workers to sign up, represent themselves under a business
               if they choose, and receive direct tips & reviews based on their service.</span>
@@ -274,7 +299,7 @@
         </div>
       </div>
       <div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2 px-5 px-lg-0 d-flex flex-column pb-4 pt-1">
-        <div class="row elevation-2 rounded project-card-5 bg-dark bg-gradient border my-2 align-items-center">
+        <div class="row elevation-2 rounded project-card-6 bg-dark bg-gradient border my-2 align-items-center">
           <div class="col-12 col-lg-4 g-0 d-flex align-items-center justify-content-center vh-25 px-2">
             <a href="https://www.nexusmods.com/oblivionremastered/mods/567" target="_blank" rel="noopener noreferrer"
               class="px-2" title="Visit the Auto Upgrade Leveled Items modpage!">
@@ -286,7 +311,7 @@
               class="hover-link" title="Visit the Auto Upgrade Leveled Items modpage!">
               <span class="fs-5 auli">Auto Upgrade Leveled Items</span>
             </a>
-            <span class="pt-2 fs-5 project-card-end-5">A mod made for the video game The Elder Scrolls IV: Oblivion
+            <span class="pt-2 fs-5 project-card-end-6">A mod made for the video game The Elder Scrolls IV: Oblivion
               Remastered. People (including myself) had need of a mod with AULI's utility, so I taught myself how to use
               the game's modding tools and papyrus scripting completely from scratch. I fixated on the project for 10
               hours straight and created the first version of AULI overnight. AULI went on to be one of the most
@@ -373,6 +398,12 @@ export default {
       })
       gsap.from(".project-card-5", {
         scrollTrigger: ".project-card-end-5",
+        opacity: 0,
+        duration: 1.1,
+        scale: 0.2,
+      })
+      gsap.from(".project-card-6`", {
+        scrollTrigger: ".project-card-end-6",
         opacity: 0,
         duration: 1.1,
         scale: 0.2,
@@ -504,6 +535,11 @@ export default {
 .gratuities {
   font-family: 'Rowdies', cursive;
   color: #06d6a0;
+}
+
+.pawket {
+  font-family: 'Fredoka', 'Bubblegum Sans', cursive;
+  color: #e6ccff;
 }
 
 .swade {
